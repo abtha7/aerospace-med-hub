@@ -1,8 +1,8 @@
 {
-  "last_updated": "2026-11-01 02:55 UTC",
+  "last_updated": "2026-11-01 03:09 UTC",
   "items": [
     {
-      "id": "42092775",
+      "id": "pubmed-42092775",
       "title": "A novel bile salt hydrolase-producing Ligilactobacillus salivarius prevents diet-induced obesity via regulation of bile acid metabolism and glucagon-like peptide 1 restoration.",
       "source": "PubMed",
       "category": "Research",
@@ -10,7 +10,7 @@
       "date": "2026 Dec 31"
     },
     {
-      "id": "41729099",
+      "id": "pubmed-41729099",
       "title": "Simulated microgravity induces cerebral dysfunction by disturbing protective microbiota-metabolite-microglia signaling across the gut\u2012brain axis.",
       "source": "PubMed",
       "category": "Research",
@@ -18,7 +18,15 @@
       "date": "2026 Dec 31"
     },
     {
-      "id": "42830261",
+      "id": "pubmed-42910274",
+      "title": "Human induced pluripotent stem cells and organoid models in space for investigating severe pediatric metabolic and congenital disorders.",
+      "source": "PubMed",
+      "category": "Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42910274/",
+      "date": "2026 Dec"
+    },
+    {
+      "id": "pubmed-42830261",
       "title": "Fetal foramen ovale restriction in pregnancy: echocardiographic characteristics and perinatal outcomes.",
       "source": "PubMed",
       "category": "Research",
@@ -26,7 +34,7 @@
       "date": "2026 Dec"
     },
     {
-      "id": "42727534",
+      "id": "pubmed-42727534",
       "title": "Force-limiting factors in triceps surae muscle of children and adolescents with spastic cerebral palsy.",
       "source": "PubMed",
       "category": "Research",
@@ -34,7 +42,23 @@
       "date": "2026 Dec"
     },
     {
-      "id": "42772465",
+      "id": "pubmed-42683494",
+      "title": "Using Organoids to Unlock the Potential of Human Torpor for Spaceflight.",
+      "source": "PubMed",
+      "category": "Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42683494/",
+      "date": "2026 Dec"
+    },
+    {
+      "id": "pubmed-42932888",
+      "title": "Fitness and in-flight exercise training parameters predictive of functional task performance in astronauts following long-duration spaceflight.",
+      "source": "PubMed",
+      "category": "Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42932888/",
+      "date": "2026 Nov 1"
+    },
+    {
+      "id": "pubmed-42772465",
       "title": "Physiological effects of heated humidifiers versus heat and moisture exchangers in adult ARDS patients receiving invasive mechanical ventilation: A systematic review and meta-analysis.",
       "source": "PubMed",
       "category": "Research",
@@ -42,7 +66,15 @@
       "date": "2026 Nov"
     },
     {
-      "id": "42456880",
+      "id": "pubmed-42456996",
+      "title": "Microgravity-induced muscle atrophy in rodent and human models.",
+      "source": "PubMed",
+      "category": "Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42456996/",
+      "date": "2026 Nov"
+    },
+    {
+      "id": "pubmed-42456880",
       "title": "The gut-microbiota-brain axis mediates the neuroprotective effects of exercise against microgravity-induced cognitive impairment.",
       "source": "PubMed",
       "category": "Research",
@@ -50,52 +82,388 @@
       "date": "2026 Nov"
     },
     {
-      "id": "42385762",
-      "title": "Global, regional, and national burden of tuberculosis and multidrug-resistant tuberculosis by HIV status, 1990-2023: a systematic analysis for the Global Burden of Disease Study 2023.",
-      "source": "PubMed",
-      "category": "Research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42385762/",
-      "date": "2026 Nov"
+      "id": "CBMimAFBVV95cUxPampQSWZuVVZGUjJHU0YtdkluUkpQcHoybnV6SkYzcEZBME5USGZBZHlTTy0xM2F5RGE2UFlGcnp4OVRRRnZ3YmJTUW5wemxJWlNIMngwZHUtV3dnelF6MjJyQnNZd3I3enNSeWFQVTRRTFRFd3Y5OFh0SHNmbUxGRHE3ZWFObjhzSU81d0JEMTJUQkhUV3dwdw",
+      "title": "FAA Executive Physician/Scientist Joins UCF Aerospace Medicine Team - University of Central Florida",
+      "source": "AsMA Coverage",
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPampQSWZuVVZGUjJHU0YtdkluUkpQcHoybnV6SkYzcEZBME5USGZBZHlTTy0xM2F5RGE2UFlGcnp4OVRRRnZ3YmJTUW5wemxJWlNIMngwZHUtV3dnelF6MjJyQnNZd3I3enNSeWFQVTRRTFRFd3Y5OFh0SHNmbUxGRHE3ZWFObjhzSU81d0JEMTJUQkhUV3dwdw?oc=5",
+      "date": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "42252517",
-      "title": "In Reference to Adjunctive Hyperbaric Oxygen Therapy or Intratympanic Steroids in Sudden Sensorineural Hearing Loss?",
-      "source": "PubMed",
-      "category": "Research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42252517/",
-      "date": "2026 Nov"
+      "id": "CBMipAFBVV95cUxOTTRBRGE0MkVuQjVMLWRYaUJONllqVXpDOVVHeDVQTWhUOVJ1WXpHdEJLYVhCdTFrcU9TZHBfdllkeUpfeUJIUDNPVUY1bzZHS0JhUEU0azQxSjhNcmlHdFVoY0o0VEdFZE5iQmlaOFQ4czB1TmU4d0JvMFMxaERlTHBJQTR0WG4yZ2VGcnNaVlVjRkotQXhJaUpYMTlmelgzMjA0cw",
+      "title": "MIT's Doctors Without Gravity club builds community around space medicine - news.lavx.hu",
+      "source": "AsMA Coverage",
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTRBRGE0MkVuQjVMLWRYaUJONllqVXpDOVVHeDVQTWhUOVJ1WXpHdEJLYVhCdTFrcU9TZHBfdllkeUpfeUJIUDNPVUY1bzZHS0JhUEU0azQxSjhNcmlHdFVoY0o0VEdFZE5iQmlaOFQ4czB1TmU4d0JvMFMxaERlTHBJQTR0WG4yZ2VGcnNaVlVjRkotQXhJaUpYMTlmelgzMjA0cw?oc=5",
+      "date": "Thu, 22 Oct 2026 01:21:36 GMT"
     },
     {
-      "id": "42957763",
-      "title": "The gut-muscle-joint axis in osteoarthritis: Mechanistic insights and therapeutic perspectives.",
-      "source": "PubMed",
-      "category": "Research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42957763/",
-      "date": "2026 Oct 29"
+      "id": "CBMinwFBVV95cUxNT3RSZWlxT0JmVWU0WGZrN0xDSVp6WXR5ZWNXQnRvLXRCU0FQQktReFd5YVJIWlA4SWxZS3k0aXdJajFVU2FUUk4zVXR6aVNHXzRDT29YNS1vckViTzdDVTVVOXRjOXFRQjF6SnBUNnYyLVVnd1MxcmsxRlc0NXMzNWFhUlBsVmdtRkFrNXZNaFQxQzAyNEgweE0yLVhZbTQ",
+      "title": "Receives Prestigious International Presidential Position - Norwegian Armed Forces - Forsvaret",
+      "source": "AsMA Coverage",
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3RSZWlxT0JmVWU0WGZrN0xDSVp6WXR5ZWNXQnRvLXRCU0FQQktReFd5YVJIWlA4SWxZS3k0aXdJajFVU2FUUk4zVXR6aVNHXzRDT29YNS1vckViTzdDVTVVOXRjOXFRQjF6SnBUNnYyLVVnd1MxcmsxRlc0NXMzNWFhUlBsVmdtRkFrNXZNaFQxQzAyNEgweE0yLVhZbTQ?oc=5",
+      "date": "Fri, 22 May 2026 07:00:00 GMT"
     },
     {
-      "id": "42954401",
-      "title": "Stem cell-delivery hydrogels with shear-thinning injectability promote bone healing in distraction osteogenesis.",
-      "source": "PubMed",
-      "category": "Research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42954401/",
-      "date": "2026 Oct 29"
+      "id": "CBMi1AFBVV95cUxQTGZRRmVWajI3ZGZJS0xtbUdqU1lBQ25sb1ViZjhnSlM0dVpBNlFzZ19mUUdsU0RVaWFzWUpZX2hXcnp1bFkxTHJ4c1FRWVVrV2N0cEZ3QjJyTTY4TnBzb3RLbEE4Y2Z2c0lBd1FFaHNnNnNWNzVfbTNvdjRDLWxkTTV5TC1BWC1UMmVMRUxRMHFjd1NnSUZid1ExZnY4VXVQSzVNaWVMRWQ3YnEyTENGM252RHRuUEJ5eG1XcllsWV8wb0RZcktfY2ZET3pWQVJ0bFRQcA",
+      "title": "59th Medical Wing\u2019s own honored with Aerospace Medical Association fellowship - Air Education and Training Command (.mil)",
+      "source": "AsMA Coverage",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTGZRRmVWajI3ZGZJS0xtbUdqU1lBQ25sb1ViZjhnSlM0dVpBNlFzZ19mUUdsU0RVaWFzWUpZX2hXcnp1bFkxTHJ4c1FRWVVrV2N0cEZ3QjJyTTY4TnBzb3RLbEE4Y2Z2c0lBd1FFaHNnNnNWNzVfbTNvdjRDLWxkTTV5TC1BWC1UMmVMRUxRMHFjd1NnSUZid1ExZnY4VXVQSzVNaWVMRWQ3YnEyTENGM252RHRuUEJ5eG1XcllsWV8wb0RZcktfY2ZET3pWQVJ0bFRQcA?oc=5",
+      "date": "Wed, 25 Oct 2023 07:00:00 GMT"
     },
     {
-      "id": "42951117",
-      "title": "Melanoma risk in astronauts: Clinical screening, surveillance, and the microgravity paradox.",
-      "source": "PubMed",
-      "category": "Research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42951117/",
-      "date": "2026 Oct 28"
+      "id": "CBMirwFBVV95cUxQdVR6RGZESF80SUN3bHVTM1lma2NUVjlrTXQ1VjBMY1Zlc3RYRS1kd05RN3phUlpuYmhqVERHTEQ1dTZUcFZubFBlN0JteG9ta19MaTVMZEFFcHB0X2RJVW8ySXFBSXF0RmgtcWdaRFBPNmhCNFRPUzFQdndhYjk3RnhpRS1oVEp6dHZMc0xzUnRCYzV6emh1V3lUVEpvMzRfWkd3NVFmZHU0bWRHMmEw",
+      "title": "IAM to host 64th annual conference Indian Society of Aerospace Medicine in Bengaluru - News On AIR",
+      "source": "AsMA Coverage",
+      "category": "Events",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdVR6RGZESF80SUN3bHVTM1lma2NUVjlrTXQ1VjBMY1Zlc3RYRS1kd05RN3phUlpuYmhqVERHTEQ1dTZUcFZubFBlN0JteG9ta19MaTVMZEFFcHB0X2RJVW8ySXFBSXF0RmgtcWdaRFBPNmhCNFRPUzFQdndhYjk3RnhpRS1oVEp6dHZMc0xzUnRCYzV6emh1V3lUVEpvMzRfWkd3NVFmZHU0bWRHMmEw?oc=5",
+      "date": "Wed, 27 May 2026 08:43:54 GMT"
     },
     {
-      "id": "42948874",
-      "title": "Glutaminolysis Shapes Cardiac Resilience to Stress via Mitochondrial Glutathione.",
-      "source": "PubMed",
-      "category": "Research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42948874/",
-      "date": "2026 Oct 28"
+      "id": "CBMinwFBVV95cUxQVmY3YjNkQWswaDRyU2xZaHpFckJ1TnRMZkhEUVhZdzdqNC1hd1RRZ184SFdjWkJjdUZiU1NBbkgxRkVnS2FTNGo0a1FxelE5ZU95aVZ1bXNhUlNibUtxN0VtVjFCWFFoZVVhckdrTVZtczJnQWRCWEUyTzJwdHZFTGRzOUprYTRIdFZOYjdLY3dwTGprZHFLN3FqTUg1cmM",
+      "title": "UND motion sickness program earns international spotlight - University of North Dakota",
+      "source": "AsMA Coverage",
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmY3YjNkQWswaDRyU2xZaHpFckJ1TnRMZkhEUVhZdzdqNC1hd1RRZ184SFdjWkJjdUZiU1NBbkgxRkVnS2FTNGo0a1FxelE5ZU95aVZ1bXNhUlNibUtxN0VtVjFCWFFoZVVhckdrTVZtczJnQWRCWEUyTzJwdHZFTGRzOUprYTRIdFZOYjdLY3dwTGprZHFLN3FqTUg1cmM?oc=5",
+      "date": "Thu, 19 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "id": "CBMizAFBVV95cUxQYUpDSzRzZzFGM1c2VkFnMy05Wk5FbHhBYVVnQ29iS2x5Z19KTnhpQjFmak1lcWdsaS1id3g1UHV6dDZ3cDdnaHdvSkVTamdMVmYwTElPVFVJRzI0MzNhZjFfRlIzX1BSMlpjUk5SWUhhVXhyV3dRSGtqZmtnNmdLWXVOMkJwbzRLbHBXX2NseDQ2QjV2NmtRbHdFclA2RGt3OUN5blR2TnNqdF9FZnJISmtDX0lqcXBWTi1qUV84bzhPc1ZaQjBvazRqNFQ",
+      "title": "NAMRU-D researchers attend 92nd AsMA scientific meeting - www.navy.mil",
+      "source": "AsMA Coverage",
+      "category": "Events",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUpDSzRzZzFGM1c2VkFnMy05Wk5FbHhBYVVnQ29iS2x5Z19KTnhpQjFmak1lcWdsaS1id3g1UHV6dDZ3cDdnaHdvSkVTamdMVmYwTElPVFVJRzI0MzNhZjFfRlIzX1BSMlpjUk5SWUhhVXhyV3dRSGtqZmtnNmdLWXVOMkJwbzRLbHBXX2NseDQ2QjV2NmtRbHdFclA2RGt3OUN5blR2TnNqdF9FZnJISmtDX0lqcXBWTi1qUV84bzhPc1ZaQjBvazRqNFQ?oc=5",
+      "date": "Mon, 06 Jun 2022 07:00:00 GMT"
+    },
+    {
+      "id": "CBMirwFBVV95cUxPSnpxNXpFWmVOUzl4R0ZjVUVFYnF6b2JZNFVaQW9sTjZORFpsMEZDckZjUUdZa0ZRaDI1VE9Gc2VBbC1IRURiVzlMY2ZQTFhoRk1yYVhhUlMxNnRRcFp1ejFSOUdpcXNyYXl3OEtkYV80bmo1dExpUHBkUkVZZ0c5eWdOU244R1IyVjhwUlY3a29yNDVoel9ZWkN0LXlyNVFFVnV5NEtfcmVNblYwdnkw",
+      "title": "What it\u2019s like in aerospace medicine: Shadowing Dr. Ortega - American Medical Association | AMA",
+      "source": "AsMA Coverage",
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnpxNXpFWmVOUzl4R0ZjVUVFYnF6b2JZNFVaQW9sTjZORFpsMEZDckZjUUdZa0ZRaDI1VE9Gc2VBbC1IRURiVzlMY2ZQTFhoRk1yYVhhUlMxNnRRcFp1ejFSOUdpcXNyYXl3OEtkYV80bmo1dExpUHBkUkVZZ0c5eWdOU244R1IyVjhwUlY3a29yNDVoel9ZWkN0LXlyNVFFVnV5NEtfcmVNblYwdnkw?oc=5",
+      "date": "Wed, 14 Aug 2019 07:00:00 GMT"
+    },
+    {
+      "id": "CBMi2AFBVV95cUxPc0taYTMtazRDZTdqYVh3WUZJbTdIZzhTVTRxcXFGektiR1hscm1MbENtWjVHdFJmaXI2ZlRkSHNhc2psSzZ5OXJmVk1GRVV4Nmx0NGI2MWxUQ0hCODc1RFZvX3otaXhnU0IyaDdDaDNiWDI5WUNHTEpoUFpmZ0JzUkVZSHc1Vnd6OWRCR3lTQWw3WVpWbzVuT2FpMnFOQ0dvaThUMWI4a2ZEUFRoUjRDMk56cDVRUHhzZ2FpS2RKaF9wR0xOUjBrdmZGdElScmdhcXc2ZUNfM3k",
+      "title": "2026 American Society for Gravitational and Space Research Annual Conference Call for Abstract Reviewers - Astrobiology Web",
+      "source": "ASGSR Updates",
+      "category": "Events",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc0taYTMtazRDZTdqYVh3WUZJbTdIZzhTVTRxcXFGektiR1hscm1MbENtWjVHdFJmaXI2ZlRkSHNhc2psSzZ5OXJmVk1GRVV4Nmx0NGI2MWxUQ0hCODc1RFZvX3otaXhnU0IyaDdDaDNiWDI5WUNHTEpoUFpmZ0JzUkVZSHc1Vnd6OWRCR3lTQWw3WVpWbzVuT2FpMnFOQ0dvaThUMWI4a2ZEUFRoUjRDMk56cDVRUHhzZ2FpS2RKaF9wR0xOUjBrdmZGdElScmdhcXc2ZUNfM3k?oc=5",
+      "date": "Mon, 27 Apr 2026 07:00:00 GMT"
+    },
+    {
+      "id": "CBMiogFBVV95cUxPTElHeTBIREM0YThrTEZUV2pmS2lTNzNLSnNxa3ExazVLREdad0hKODBBMHhGWU9RYmJmOEtROHFIM0JZcUw0SFIxSGVYRDVEdk45d3Z3QVJsSlc4aXhCMHktS2swVGRwVEE0cGhaMkRRaWx6eTNuU2tudVVmV2t6dmdFUVoyZWJGd3lpZGY4ZUxwTFk0TFVKNmI1R0doM01CUWc",
+      "title": "Scientists and Students Discuss the Future of Space Research at ASGSR Annual Conference - NASA Science (.gov)",
+      "source": "ASGSR Updates",
+      "category": "Events",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTElHeTBIREM0YThrTEZUV2pmS2lTNzNLSnNxa3ExazVLREdad0hKODBBMHhGWU9RYmJmOEtROHFIM0JZcUw0SFIxSGVYRDVEdk45d3Z3QVJsSlc4aXhCMHktS2swVGRwVEE0cGhaMkRRaWx6eTNuU2tudVVmV2t6dmdFUVoyZWJGd3lpZGY4ZUxwTFk0TFVKNmI1R0doM01CUWc?oc=5",
+      "date": "Thu, 21 Dec 2023 08:00:00 GMT"
+    },
+    {
+      "id": "CBMitgFBVV95cUxPbU4wX0s0eWR0MHlJSUJIcjU4YkRUSzRRQVJHSGJXVUZDM0p3Vms4NHUtSnBnOGZsMHJVbmxKSU5Uck5hVGF3eXJuX01lN1BKSVoteU5oblZBb3VuZmtDMFNXaWFzWnIzUU1vT0FSRzNtZ0FSUEtGS3JCOWt1Y0RXWWFXWTFZWHc2SVFtYmZEdnJtdngyXy1udU5lOEgwcWZmbE9mS3ktUzZHZ1JiZEM0OTV4VlN6QQ",
+      "title": "Gbolaga Olanrewaju wins top graduate award, first place for poster at gravitational and space research conference - Ohio University",
+      "source": "ASGSR Updates",
+      "category": "Events",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbU4wX0s0eWR0MHlJSUJIcjU4YkRUSzRRQVJHSGJXVUZDM0p3Vms4NHUtSnBnOGZsMHJVbmxKSU5Uck5hVGF3eXJuX01lN1BKSVoteU5oblZBb3VuZmtDMFNXaWFzWnIzUU1vT0FSRzNtZ0FSUEtGS3JCOWt1Y0RXWWFXWTFZWHc2SVFtYmZEdnJtdngyXy1udU5lOEgwcWZmbE9mS3ktUzZHZ1JiZEM0OTV4VlN6QQ?oc=5",
+      "date": "Sat, 10 Dec 2022 08:00:00 GMT"
+    },
+    {
+      "id": "CBMiUkFVX3lxTE5ZOGx2OXIwR3hVNFVYX1psTWFaa1ZZZjVyRXo4cWlMclFBUG05eEtrYTVreDU4VUxLMGc4c3JVMFFGanVIT2NrcTZDRE9CNlFLcnc",
+      "title": "Check out the OSDR Team at ASGSR 2024 - NASA (.gov)",
+      "source": "ASGSR Updates",
+      "category": "Events",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZOGx2OXIwR3hVNFVYX1psTWFaa1ZZZjVyRXo4cWlMclFBUG05eEtrYTVreDU4VUxLMGc4c3JVMFFGanVIT2NrcTZDRE9CNlFLcnc?oc=5",
+      "date": "Wed, 13 Nov 2024 19:17:48 GMT"
+    },
+    {
+      "id": "CBMipgFBVV95cUxQNHFEcy14M2lyLTJZV2pPWi1ONGlDNXB6dEpEcXB3V3lfcEs3SXpicURxMVlteGI2b2x4QVNUS1QyTzJnRFc1cWk2SllWNnlsdGIwc1RHOFZoRUoyM3BaUWM3dHVBOXBuWWhDMWd1TFExUm1EUHZDa2FyNjdBdV9wbnktRGwtMEJQTXo4dnhMNTRQR2NnX2pHMy1FUTVLODZNdDVwOU9B",
+      "title": "Dr. Marshall Porterfield Appointed ASGSR Fellow - Purdue University",
+      "source": "ASGSR Updates",
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHFEcy14M2lyLTJZV2pPWi1ONGlDNXB6dEpEcXB3V3lfcEs3SXpicURxMVlteGI2b2x4QVNUS1QyTzJnRFc1cWk2SllWNnlsdGIwc1RHOFZoRUoyM3BaUWM3dHVBOXBuWWhDMWd1TFExUm1EUHZDa2FyNjdBdV9wbnktRGwtMEJQTXo4dnhMNTRQR2NnX2pHMy1FUTVLODZNdDVwOU9B?oc=5",
+      "date": "Fri, 13 Dec 2024 08:00:00 GMT"
+    },
+    {
+      "id": "CBMihwFBVV95cUxQX2s1MWN4NUVJbjZEOU05aVNiMWNHLWtQRTEzZldWQVFKNzcxNmtGWFJuVVd2ZjVXSFZtWnlUOFE0MXVma09jQmdXT2s2dUY4RlpETEUyallVYjdqREVOMkRDTWRwZVQ2MXNzYjRPYjJTNkRneGZCNFNtQ3FvN2FPeWt2eWRrTkk",
+      "title": "\u00c1lvaro Romero-Calvo (AeroEngr PhD\u201922) - University of Colorado Boulder",
+      "source": "ASGSR Updates",
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2s1MWN4NUVJbjZEOU05aVNiMWNHLWtQRTEzZldWQVFKNzcxNmtGWFJuVVd2ZjVXSFZtWnlUOFE0MXVma09jQmdXT2s2dUY4RlpETEUyallVYjdqREVOMkRDTWRwZVQ2MXNzYjRPYjJTNkRneGZCNFNtQ3FvN2FPeWt2eWRrTkk?oc=5",
+      "date": "Tue, 18 Mar 2025 07:00:00 GMT"
+    },
+    {
+      "id": "CBMihAJBVV95cUxOalFvczFpR3ExNzU3Wl9HRXJhWEROanNWX0JVUFhEdnFsZGh6MndqVEtUeHlZMGJUNk1BOGlPbzJNX1BwbzdMekttOHpBMTJRQVBzSF95YXVTZWgyMUJRTkJPM0dJcjNKRWU3VmUxSTNiOTY5dFNCZU9NUFBkVk1zekw4SERGaDk4bzR6TVMxUFVfQ2Jpd3NIdW04X29yR2FZWjdBbVBVcGhlcGtJVFV5OUZ4V2RRckp2RWpCQ19xdWJYRWxibWQyOTlUbk1pZk44V3RhOTJpN181MDZCRTR6V0FVaFdpeUF2cV85Z1ZCeGN5TGlHQlhSUi1WZVRQb1MxWEZFQQ",
+      "title": "Growing Beyond Earth High School Student Wins the American Society of Gravitational Space Research Scholarship - NASA Science (.gov)",
+      "source": "ASGSR Updates",
+      "category": "Opportunities",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOalFvczFpR3ExNzU3Wl9HRXJhWEROanNWX0JVUFhEdnFsZGh6MndqVEtUeHlZMGJUNk1BOGlPbzJNX1BwbzdMekttOHpBMTJRQVBzSF95YXVTZWgyMUJRTkJPM0dJcjNKRWU3VmUxSTNiOTY5dFNCZU9NUFBkVk1zekw4SERGaDk4bzR6TVMxUFVfQ2Jpd3NIdW04X29yR2FZWjdBbVBVcGhlcGtJVFV5OUZ4V2RRckp2RWpCQ19xdWJYRWxibWQyOTlUbk1pZk44V3RhOTJpN181MDZCRTR6V0FVaFdpeUF2cV85Z1ZCeGN5TGlHQlhSUi1WZVRQb1MxWEZFQQ?oc=5",
+      "date": "Sat, 18 Nov 2023 08:00:00 GMT"
+    },
+    {
+      "id": "CBMisgFBVV95cUxQam1ETy01WDN5MzdEY2pHTmZIMXVBYkhMU3JhUk15dVNzRHVWMy05OWk1bnU3T1lDMWxEQmNyeFNrVjd3djR5X1psSmpnSk4zNElpV1BBaTBUbTRQTHNVWXdnbjdqbzBVLS1tdGVxdGs0ZDEyNVVZOTNta3VSN2xlM2NRM1UyRVhlVzBOa29vX2FSNjQ1dURYYTdMM2txVV9fWTVoN1phM0VfRDBiRDgxWTJ3",
+      "title": "Student receives \u2018out of this world\u2019 experience through Biotechnology Institute connections - Scot Scoop News",
+      "source": "ASGSR Updates",
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQam1ETy01WDN5MzdEY2pHTmZIMXVBYkhMU3JhUk15dVNzRHVWMy05OWk1bnU3T1lDMWxEQmNyeFNrVjd3djR5X1psSmpnSk4zNElpV1BBaTBUbTRQTHNVWXdnbjdqbzBVLS1tdGVxdGs0ZDEyNVVZOTNta3VSN2xlM2NRM1UyRVhlVzBOa29vX2FSNjQ1dURYYTdMM2txVV9fWTVoN1phM0VfRDBiRDgxWTJ3?oc=5",
+      "date": "Sun, 05 Nov 2017 07:00:00 GMT"
+    },
+    {
+      "id": "CBMidkFVX3lxTE5JbkQyRHNPOUtwVkFDN0N5cHVhemxCM09vQ3EwMzEzdU1xbVd0NFhFRW9XVk1GZjE2eUZySVM2RnhfMWlmMjhoTDRIUUFyMWpFdUZLaUFZS3B2cFItOFpHNFBaRnh6VHRmQXlTMW11MjdTbTNpRHc",
+      "title": "UCLA Space Medicine program equips doctors to deal with 'unique medical challenges' of space travel - UCLA Health",
+      "source": "Residency News",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JbkQyRHNPOUtwVkFDN0N5cHVhemxCM09vQ3EwMzEzdU1xbVd0NFhFRW9XVk1GZjE2eUZySVM2RnhfMWlmMjhoTDRIUUFyMWpFdUZLaUFZS3B2cFItOFpHNFBaRnh6VHRmQXlTMW11MjdTbTNpRHc?oc=5",
+      "date": "Fri, 18 Feb 2022 08:00:00 GMT"
+    },
+    {
+      "id": "CBMirgFBVV95cUxOM1dHNjg1eFY4a2s3X2VZTHlHZVBYQlUzZklRVWdfdk5lbVY2dE9JZFlJNnNGbGI2aG01czBSSmxKNVdBRkl5blBNYlgyOEdyanhnS18xQ3JmVnNuRVV5TWdXOGh5dTRJYTM4MTR1a1JRcWNUaXVkRHFNQjF5Y1g0X2xLZXRsQjFVRU91ejBrZDlrNTJONFNXTmdIUzJFOHBCdUd0OHVhYnk5SUdYc1E",
+      "title": "UCLA\u2019s new space medicine fellowship program welcomes first inaugural fellow - Daily Bruin",
+      "source": "Residency News",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM1dHNjg1eFY4a2s3X2VZTHlHZVBYQlUzZklRVWdfdk5lbVY2dE9JZFlJNnNGbGI2aG01czBSSmxKNVdBRkl5blBNYlgyOEdyanhnS18xQ3JmVnNuRVV5TWdXOGh5dTRJYTM4MTR1a1JRcWNUaXVkRHFNQjF5Y1g0X2xLZXRsQjFVRU91ejBrZDlrNTJONFNXTmdIUzJFOHBCdUd0OHVhYnk5SUdYc1E?oc=5",
+      "date": "Tue, 01 Mar 2022 08:00:00 GMT"
+    },
+    {
+      "id": "CBMifkFVX3lxTE5VUTFGZm1HSHJsUGM0ZUdmSXJ2R2VUX2ZkR1pFU21Xdi03M1hiNlBKSkFtX3FvbTJ0bWd1dkVEdTY0MVoyNmtDb19vXzhxS2VSU3BTbXBlbmRSSEJsTE91eWpsXzZZVElfQ0NwRFMtUjBEeWhDZURHSEhHR3J6Zw",
+      "title": "Doctors in space: UCLA fellowship prepares new generation of flight surgeons - Newsroom | UCLA",
+      "source": "Residency News",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VUTFGZm1HSHJsUGM0ZUdmSXJ2R2VUX2ZkR1pFU21Xdi03M1hiNlBKSkFtX3FvbTJ0bWd1dkVEdTY0MVoyNmtDb19vXzhxS2VSU3BTbXBlbmRSSEJsTE91eWpsXzZZVElfQ0NwRFMtUjBEeWhDZURHSEhHR3J6Zw?oc=5",
+      "date": "Fri, 11 Feb 2022 08:00:00 GMT"
+    },
+    {
+      "id": "CBMiggFBVV95cUxOUjlpRmlQSUJDT3p3R2V1Zk5SclFkeFNyb2hfNFY2cjNDV3VpNWpQU0dKaWRHMWRmYXBONEY0UFg0WVJiU2h5LW1sbEVheEI4WjFZTzk1alRGaktzNVgzMUxzQlc4SnpxWUZxYmJrMDVSMTNSbjVURDR3VVNMa2RqSmV3",
+      "title": "PhD grad earns prestigious space medicine fellowship - University of Hawaii System",
+      "source": "Residency News",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUjlpRmlQSUJDT3p3R2V1Zk5SclFkeFNyb2hfNFY2cjNDV3VpNWpQU0dKaWRHMWRmYXBONEY0UFg0WVJiU2h5LW1sbEVheEI4WjFZTzk1alRGaktzNVgzMUxzQlc4SnpxWUZxYmJrMDVSMTNSbjVURDR3VVNMa2RqSmV3?oc=5",
+      "date": "Tue, 07 Jul 2020 07:00:00 GMT"
+    },
+    {
+      "id": "CBMihwFBVV95cUxNRXhmOW5NbUV6NjZJN0Jma2FNVHlRVHl1M0ZRV09YUkNWWmo0Z1RlZlpoNkFxYlFKeEZUZ2k0WEtVcEF1MDRPZ0Fxc2s5aFppOGxjdEh3Zk5zM04zaEhoOVI1OXk3WFBhczZPOUxsUXJWQzAzWXFzVWRCMUlwMmhEVW40enVPX1U",
+      "title": "UTMB launches new department for space medicine, names inaugural leader - InnovationMap",
+      "source": "Residency News",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXhmOW5NbUV6NjZJN0Jma2FNVHlRVHl1M0ZRV09YUkNWWmo0Z1RlZlpoNkFxYlFKeEZUZ2k0WEtVcEF1MDRPZ0Fxc2s5aFppOGxjdEh3Zk5zM04zaEhoOVI1OXk3WFBhczZPOUxsUXJWQzAzWXFzVWRCMUlwMmhEVW40enVPX1U?oc=5",
+      "date": "Wed, 07 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "id": "CBMirAFBVV95cUxPRjVpbnNENEdiQWZfcmhRTGRsaTBTZDJHUUYzOXIzUUNQZnFLYm5WREpHMGIycENJcUhtQXkzU3lBVkpBMzMyc084QnNueGwxcVAydXkzWm5COHI2bzIwZ0diYnlHejNieU9uYS1mejNKU25SaTJvUjQxcmtPWG1EdXJCZzBJNkYyMkFUbXNKY3ZJMUxRZlprUWpkVzZBT1g5eGttMGROOU8wT2M5",
+      "title": "Ronak Shah launches new Texas university aerospace medicine department - The American Bazaar",
+      "source": "Residency News",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRjVpbnNENEdiQWZfcmhRTGRsaTBTZDJHUUYzOXIzUUNQZnFLYm5WREpHMGIycENJcUhtQXkzU3lBVkpBMzMyc084QnNueGwxcVAydXkzWm5COHI2bzIwZ0diYnlHejNieU9uYS1mejNKU25SaTJvUjQxcmtPWG1EdXJCZzBJNkYyMkFUbXNKY3ZJMUxRZlprUWpkVzZBT1g5eGttMGROOU8wT2M5?oc=5",
+      "date": "Mon, 14 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "id": "CBMic0FVX3lxTFAzb3piM211azRPYXhyU0hXeUVoUm1ST1RxOEdTZXl6WFdoV1VMWWtiWVViZkxLV2tmWEFiZ2tLTDl2WVh3cE5abndiZ1QtaWtrOHN3enFsb3hFXzZOY0VGa2dPbk9DT1R3TEJFRDFEM3Fzclk",
+      "title": "UCLA Space Medicine Fellowship program aims to prepare next generation of flight surgeons - UCLA Health",
+      "source": "Residency News",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzb3piM211azRPYXhyU0hXeUVoUm1ST1RxOEdTZXl6WFdoV1VMWWtiWVViZkxLV2tmWEFiZ2tLTDl2WVh3cE5abndiZ1QtaWtrOHN3enFsb3hFXzZOY0VGa2dPbk9DT1R3TEJFRDFEM3Fzclk?oc=5",
+      "date": "Fri, 11 Feb 2022 08:00:00 GMT"
+    },
+    {
+      "id": "CBMipgFBVV95cUxNMjNIZjNNcHRmckE5bnc0Sk5taFhDQWtjelhiM1A4SGd3OFFUaW1nZWE0X1pvQ2VkLU9FVzdiWjROTkcxN1AzN3JzazktZ0t2UFJ0YkJzWHhsSVM2eDJuNGdSdE0wbnp1YkpGVEthamU5UV9mNjNaSU5OblVkN1VDcmhobngza0d4cVVrLVd3VVRaLThhcWk0UmlzSmtqNGJqVGRCMmRR",
+      "title": "UCLA Launches First-Of-Its-Kind Space Training Program Just For Doctors - CBS News",
+      "source": "Residency News",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjNIZjNNcHRmckE5bnc0Sk5taFhDQWtjelhiM1A4SGd3OFFUaW1nZWE0X1pvQ2VkLU9FVzdiWjROTkcxN1AzN3JzazktZ0t2UFJ0YkJzWHhsSVM2eDJuNGdSdE0wbnp1YkpGVEthamU5UV9mNjNaSU5OblVkN1VDcmhobngza0d4cVVrLVd3VVRaLThhcWk0UmlzSmtqNGJqVGRCMmRR?oc=5",
+      "date": "Tue, 22 Feb 2022 08:00:00 GMT"
+    },
+    {
+      "id": "CBMihwFBVV95cUxNRXhmOW5NbUV6NjZJN0Jma2FNVHlRVHl1M0ZRV09YUkNWWmo0Z1RlZlpoNkFxYlFKeEZUZ2k0WEtVcEF1MDRPZ0Fxc2s5aFppOGxjdEh3Zk5zM04zaEhoOVI1OXk3WFBhczZPOUxsUXJWQzAzWXFzVWRCMUlwMmhEVW40enVPX1U",
+      "title": "UTMB launches new department for space medicine, names inaugural leader - InnovationMap",
+      "source": "UTMB Aerospace Med",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRXhmOW5NbUV6NjZJN0Jma2FNVHlRVHl1M0ZRV09YUkNWWmo0Z1RlZlpoNkFxYlFKeEZUZ2k0WEtVcEF1MDRPZ0Fxc2s5aFppOGxjdEh3Zk5zM04zaEhoOVI1OXk3WFBhczZPOUxsUXJWQzAzWXFzVWRCMUlwMmhEVW40enVPX1U?oc=5",
+      "date": "Wed, 07 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "id": "CBMioAFBVV95cUxPYVBkaW5UQTRrekpCNWt6Nkl6U0dMdEJxZzRIbGVvVkFDNUNXbzZZWW9RLWdGT2E2dXlmUUY1YXVnYkhJc2U2bUQ5OThWZXBBMEx4d25tS1dYMFl0bFFVclg2c0Fzckd5T0FrYzdyd3FuS2tPaFRPaUEyNEFJaHNPaXVmNGRMdHpTS0c2ekFyZE9KeG02bXdlQnFGbExaTFlC",
+      "title": "UTMB's aerospace medicine leader talks training professionals in the commercial space age - The Business Journals",
+      "source": "UTMB Aerospace Med",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYVBkaW5UQTRrekpCNWt6Nkl6U0dMdEJxZzRIbGVvVkFDNUNXbzZZWW9RLWdGT2E2dXlmUUY1YXVnYkhJc2U2bUQ5OThWZXBBMEx4d25tS1dYMFl0bFFVclg2c0Fzckd5T0FrYzdyd3FuS2tPaFRPaUEyNEFJaHNPaXVmNGRMdHpTS0c2ekFyZE9KeG02bXdlQnFGbExaTFlC?oc=5",
+      "date": "Mon, 21 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "id": "CBMirAFBVV95cUxPRjVpbnNENEdiQWZfcmhRTGRsaTBTZDJHUUYzOXIzUUNQZnFLYm5WREpHMGIycENJcUhtQXkzU3lBVkpBMzMyc084QnNueGwxcVAydXkzWm5COHI2bzIwZ0diYnlHejNieU9uYS1mejNKU25SaTJvUjQxcmtPWG1EdXJCZzBJNkYyMkFUbXNKY3ZJMUxRZlprUWpkVzZBT1g5eGttMGROOU8wT2M5",
+      "title": "Ronak Shah launches new Texas university aerospace medicine department - The American Bazaar",
+      "source": "UTMB Aerospace Med",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRjVpbnNENEdiQWZfcmhRTGRsaTBTZDJHUUYzOXIzUUNQZnFLYm5WREpHMGIycENJcUhtQXkzU3lBVkpBMzMyc084QnNueGwxcVAydXkzWm5COHI2bzIwZ0diYnlHejNieU9uYS1mejNKU25SaTJvUjQxcmtPWG1EdXJCZzBJNkYyMkFUbXNKY3ZJMUxRZlprUWpkVzZBT1g5eGttMGROOU8wT2M5?oc=5",
+      "date": "Mon, 14 Sep 2026 07:00:00 GMT"
+    },
+    {
+      "id": "CBMitgFBVV95cUxQOHZNWGRJcG5wVmFHNTl0UzZQVHl6TmVBbkVMOGFYVW5KYlI0WVpoQ01EY3k5YmViZDBuQTdIMDd2RG96eGlLRXl2V0Uzcl9GRUc3TlZwYkRfOUFDT0stOWhSdks0N0tXYXNKeEs3ME50cE5NODZlWWRGTmxJSUViS3lkdWZ4YVhkczFfcWl6cjBNckxGSXN0OUN2ZURKbkV1YnVLUUtRMWxHbjhHUHBuYmJibGNaQQ",
+      "title": "Texas medical schools prepare for new space age - Houston Chronicle",
+      "source": "UTMB Aerospace Med",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOHZNWGRJcG5wVmFHNTl0UzZQVHl6TmVBbkVMOGFYVW5KYlI0WVpoQ01EY3k5YmViZDBuQTdIMDd2RG96eGlLRXl2V0Uzcl9GRUc3TlZwYkRfOUFDT0stOWhSdks0N0tXYXNKeEs3ME50cE5NODZlWWRGTmxJSUViS3lkdWZ4YVhkczFfcWl6cjBNckxGSXN0OUN2ZURKbkV1YnVLUUtRMWxHbjhHUHBuYmJibGNaQQ?oc=5",
+      "date": "Wed, 22 Jul 2026 07:00:00 GMT"
+    },
+    {
+      "id": "CBMifkFVX3lxTFBuaEozNWVFVTlVUlNxY2VzSGdzQ0NQRnRaMVRqSEsxa3gtNFNtM292VjFiZmdiV3RYQWFLTzBzcmo5b3pFWHhMX2F2cTJLdlBlY0RQbk9saVhNRzBqeTRGUFdpUk9KRVU3T1ZsUkwzanoyWTJpbElVSWJGUDE2dw",
+      "title": "Aerospace Medicine Clerkship - NASA (.gov)",
+      "source": "UTMB Aerospace Med",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuaEozNWVFVTlVUlNxY2VzSGdzQ0NQRnRaMVRqSEsxa3gtNFNtM292VjFiZmdiV3RYQWFLTzBzcmo5b3pFWHhMX2F2cTJLdlBlY0RQbk9saVhNRzBqeTRGUFdpUk9KRVU3T1ZsUkwzanoyWTJpbElVSWJGUDE2dw?oc=5",
+      "date": "Mon, 30 Sep 2024 07:00:00 GMT"
+    },
+    {
+      "id": "CBMihAFBVV95cUxQdFhFNXFqdmVidkZBQmZDOFNBbHlYLTUzMTMyTmNqUlJHeDFiWk5CYkZPLW4taVQwOFZFUGdKcGl1QTliVjMtczhrLTVNV3BIeVNSa0hwUmt6YTdSbnowRjNtbW9XdEJkZHhoRHNZVVR3WGl3Wm9jMHk3RGZYUldqbFNFS04",
+      "title": "Hawkeyes providing health care in Antarctica - The University of Iowa",
+      "source": "UTMB Aerospace Med",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdFhFNXFqdmVidkZBQmZDOFNBbHlYLTUzMTMyTmNqUlJHeDFiWk5CYkZPLW4taVQwOFZFUGdKcGl1QTliVjMtczhrLTVNV3BIeVNSa0hwUmt6YTdSbnowRjNtbW9XdEJkZHhoRHNZVVR3WGl3Wm9jMHk3RGZYUldqbFNFS04?oc=5",
+      "date": "Fri, 23 Feb 2024 08:00:00 GMT"
+    },
+    {
+      "id": "CBMiX0FVX3lxTE1xRk10VHVOdWtYMEZMcHpnYl9UREtadGJCLUpwREhhZ3k5X08yVXU4MFFSdWI1MjY2VVFsNDRwak8wNTZCaURuVHZraGFaYloyS3NmYlVSZjB0T1RtRVdN",
+      "title": "Extreme Exposure - TMC Houston",
+      "source": "UTMB Aerospace Med",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1xRk10VHVOdWtYMEZMcHpnYl9UREtadGJCLUpwREhhZ3k5X08yVXU4MFFSdWI1MjY2VVFsNDRwak8wNTZCaURuVHZraGFaYloyS3NmYlVSZjB0T1RtRVdN?oc=5",
+      "date": "Wed, 03 Dec 2014 08:00:00 GMT"
+    },
+    {
+      "id": "CBMijAFBVV95cUxQd252Rk1GWno0cm5mUXBXZGo1TDdZekt4bDdQZUk5NzMxUlp0MzZuSnhOMmQ2QkxqTHAySDRQZzRzTHRCZTRfVENsQzVmTjROOFRrdkYtWWRRRlI3OHlqdFQtc1AxR0ZTa2tnb3FLVWJwUmt6SU9GSUJVQ3I0M0F6SVpBcVpVRHRRRXhaaw",
+      "title": "Johnson Space Center and UT partner to expand research, workforce development - InnovationMap",
+      "source": "UTMB Aerospace Med",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd252Rk1GWno0cm5mUXBXZGo1TDdZekt4bDdQZUk5NzMxUlp0MzZuSnhOMmQ2QkxqTHAySDRQZzRzTHRCZTRfVENsQzVmTjROOFRrdkYtWWRRRlI3OHlqdFQtc1AxR0ZTa2tnb3FLVWJwUmt6SU9GSUJVQ3I0M0F6SVpBcVpVRHRRRXhaaw?oc=5",
+      "date": "Thu, 05 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "id": "CBMihAFBVV95cUxQS0EtNndpT2piLUhmclRwUEhqc2g3bml0Y1BFZVRHYnJOXzdNZS1xMHBGTWo0X3RRZUdfODVCaVFXR2JxY3Bxd0hBN3BwcjJQZzVFQ1Jkc2MxNjF5bEhkYkpTTnlZbDRSZmVYajhUa0VfbHA4REF5elY5NVRuWFA1blNaN00",
+      "title": "Mayo Clinic Doctor Leads First Human X-Rays in Orbit - Ingstad Media",
+      "source": "Mayo Clinic Aerospace",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQS0EtNndpT2piLUhmclRwUEhqc2g3bml0Y1BFZVRHYnJOXzdNZS1xMHBGTWo0X3RRZUdfODVCaVFXR2JxY3Bxd0hBN3BwcjJQZzVFQ1Jkc2MxNjF5bEhkYkpTTnlZbDRSZmVYajhUa0VfbHA4REF5elY5NVRuWFA1blNaN00?oc=5",
+      "date": "Thu, 30 Jul 2026 02:26:23 GMT"
+    },
+    {
+      "id": "CBMizwFBVV95cUxOeXFaT1BtdGtUWGZCMlAwSmIxd1hkUXlldWRaaTgtUDlwZDAwTENqOExxT2Zka0hpVGt5YVp5TWhrY0dGeXNmNHI4RUl5TTB2WWFuY2VyWm1FY2ZxanIyMklWMjFpUlMzUmR4LVNyV0VnQTJyQ1RkaThHeFp1MjBoWnZ6X1o3VWI3MUhfQXRINktlUUxsX0FaTFp5ZWdNd2wtSnZtejB5cmw1b1VxQmI1blN0S0w2a29tU2NsbmRVb04tSktnbkFFQ05YZlJPNFE",
+      "title": "Expert Alert: Mayo Clinic aerospace medicine experts look ahead 50 years after Apollo 11 - Mayo Clinic News Network",
+      "source": "Mayo Clinic Aerospace",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeXFaT1BtdGtUWGZCMlAwSmIxd1hkUXlldWRaaTgtUDlwZDAwTENqOExxT2Zka0hpVGt5YVp5TWhrY0dGeXNmNHI4RUl5TTB2WWFuY2VyWm1FY2ZxanIyMklWMjFpUlMzUmR4LVNyV0VnQTJyQ1RkaThHeFp1MjBoWnZ6X1o3VWI3MUhfQXRINktlUUxsX0FaTFp5ZWdNd2wtSnZtejB5cmw1b1VxQmI1blN0S0w2a29tU2NsbmRVb04tSktnbkFFQ05YZlJPNFE?oc=5",
+      "date": "Mon, 13 May 2019 07:00:00 GMT"
+    },
+    {
+      "id": "CBMixgFBVV95cUxOT2pSVUlJLUVoTUh4cWhrdkJoU1NVUGJYNVlNaHUydzcySE1Qa3BmM2xpRXpFLTNNMElGTHJEdksweVdIWEpCcXYtZk0wN2ZPNHN4SWpNMTE5aGZ2QUdXZnUyclUwQWhzOVBFSDhxQU4zUlRNQUhSTEpPZjMwaGFTM1l0cGtuUUFzdUNRZG4zUjdidFRjRlBvZ1VCQU1jbkJ5U1BYamF3eGdodk9DSksydndSM1dGUXBwUEtnOUVWMUpfbV9NS3c",
+      "title": "VCU alum, who practices at the Mayo Clinic, has developed specialties ranging from aerospace medicine to long COVID - VCU News",
+      "source": "Mayo Clinic Aerospace",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT2pSVUlJLUVoTUh4cWhrdkJoU1NVUGJYNVlNaHUydzcySE1Qa3BmM2xpRXpFLTNNMElGTHJEdksweVdIWEpCcXYtZk0wN2ZPNHN4SWpNMTE5aGZ2QUdXZnUyclUwQWhzOVBFSDhxQU4zUlRNQUhSTEpPZjMwaGFTM1l0cGtuUUFzdUNRZG4zUjdidFRjRlBvZ1VCQU1jbkJ5U1BYamF3eGdodk9DSksydndSM1dGUXBwUEtnOUVWMUpfbV9NS3c?oc=5",
+      "date": "Fri, 07 Jul 2023 07:00:00 GMT"
+    },
+    {
+      "id": "CBMiqwFBVV95cUxOMEdXdnBYc0tINklhTmVIRl9Hbk53WDBFMDBVTVJ4NkNOTnVma2NBQWtvZTMydlpXeHk5UDQ0czNCTFhVWUVrU25scTI3NHJqU2VhZXVMVzN1Y01DNVlVMDgtQi1WcW0yMnJMWFctUjMydXdwbjVSNWgtdjdhLWNueXdtbzVzWkJDclJkZGxoLUZVSF9Zc3FXOThfU0hTU0dwT2hYN194QzR3cGs",
+      "title": "Pioneering Aerospace Medicine Program to Study Long-Term Effects of Space Travel - Newsweek",
+      "source": "Mayo Clinic Aerospace",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMEdXdnBYc0tINklhTmVIRl9Hbk53WDBFMDBVTVJ4NkNOTnVma2NBQWtvZTMydlpXeHk5UDQ0czNCTFhVWUVrU25scTI3NHJqU2VhZXVMVzN1Y01DNVlVMDgtQi1WcW0yMnJMWFctUjMydXdwbjVSNWgtdjdhLWNueXdtbzVzWkJDclJkZGxoLUZVSF9Zc3FXOThfU0hTU0dwT2hYN194QzR3cGs?oc=5",
+      "date": "Tue, 27 May 2025 07:00:00 GMT"
+    },
+    {
+      "id": "CBMixwFBVV95cUxQbXYzR21zSk9NaXB0Q24yWktFTmp1QWNnaExUTFpQNTY2UTUwb1RURzBSOU04QlROWDhhdzFTMEZDZTZmdFlWUHcwVVhIOGh2NGFRYkZidWd3bWtFYkpSQ3FoenhROVhqZlN0T0pvWUVJR0JhTW42cS1jaHRUdVJZQ3ZyUWVETXdoNWR1TWt5QjNCdFp0MTBuaDNSaXB5ZUcwa3N6ZnJ2bDRGRnZmbWpTLVdodDRmek1Vd3NSc1JGVVJEcGRzSWNz",
+      "title": "Mayo Clinic announces new program for preventive care of business aviation pilots - Mayo Clinic News Network",
+      "source": "Mayo Clinic Aerospace",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbXYzR21zSk9NaXB0Q24yWktFTmp1QWNnaExUTFpQNTY2UTUwb1RURzBSOU04QlROWDhhdzFTMEZDZTZmdFlWUHcwVVhIOGh2NGFRYkZidWd3bWtFYkpSQ3FoenhROVhqZlN0T0pvWUVJR0JhTW42cS1jaHRUdVJZQ3ZyUWVETXdoNWR1TWt5QjNCdFp0MTBuaDNSaXB5ZUcwa3N6ZnJ2bDRGRnZmbWpTLVdodDRmek1Vd3NSc1JGVVJEcGRzSWNz?oc=5",
+      "date": "Wed, 11 Nov 2015 08:00:00 GMT"
+    },
+    {
+      "id": "CBMivwFBVV95cUxNT1VmRUhDUFpBR0ZzUFVVaWltVmc5WDVMQndYTkFrcXFqS2hSYy1LRkpMV082ODhMbWZSRjJWTXRkb09lQ2JYc1ZMeVlxV29SWlNfc3RsV1JzRzY5bXNsYlJHQzVyZk5QNWliVmVWWlFaa1F1ZmVoS2diOHNNRE5pS0pCbUFkMTlTSjlQU2NaT0N5WnJaR0xKUHpjRi1Id1dzUFdfZVRlaXZiRmpJdW1va2ZzZ0xaZm93dWVBRW0wcw",
+      "title": "Mayo Clinic to offer medical education course required by FAA\u2019s new BasicMed - Mayo Clinic News Network",
+      "source": "Mayo Clinic Aerospace",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT1VmRUhDUFpBR0ZzUFVVaWltVmc5WDVMQndYTkFrcXFqS2hSYy1LRkpMV082ODhMbWZSRjJWTXRkb09lQ2JYc1ZMeVlxV29SWlNfc3RsV1JzRzY5bXNsYlJHQzVyZk5QNWliVmVWWlFaa1F1ZmVoS2diOHNNRE5pS0pCbUFkMTlTSjlQU2NaT0N5WnJaR0xKUHpjRi1Id1dzUFdfZVRlaXZiRmpJdW1va2ZzZ0xaZm93dWVBRW0wcw?oc=5",
+      "date": "Mon, 24 Apr 2017 07:00:00 GMT"
+    },
+    {
+      "id": "CBMiuAFBVV95cUxNTG9HS0d4Wk1GTlpPWlkydVMtUUdBaDlVR3c4ejdZQ2tKQzJLZGZtOUJpSFlhYmhkNllZbTFsMmRRUjVyTUxveEVldlJUb2pHMEt0Y2N6c3ZmakRFZEJ2UmpzYTBRMHRmUlJNRzlPdlNaRWJhZ1hIVS1iZG11SGd2c3VyZHZ1eE5pVVdFQ3B1UFlidmtlX29KSzFiZnNyUEFzWnkybUt6MWJXZ3JpcXVUd3ZjYWpjT1ZQ",
+      "title": "First officer in Miracle on the Hudson landing to speak at Mayo Clinic - Mayo Clinic News Network",
+      "source": "Mayo Clinic Aerospace",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTG9HS0d4Wk1GTlpPWlkydVMtUUdBaDlVR3c4ejdZQ2tKQzJLZGZtOUJpSFlhYmhkNllZbTFsMmRRUjVyTUxveEVldlJUb2pHMEt0Y2N6c3ZmakRFZEJ2UmpzYTBRMHRmUlJNRzlPdlNaRWJhZ1hIVS1iZG11SGd2c3VyZHZ1eE5pVVdFQ3B1UFlidmtlX29KSzFiZnNyUEFzWnkybUt6MWJXZ3JpcXVUd3ZjYWpjT1ZQ?oc=5",
+      "date": "Wed, 13 Sep 2017 07:00:00 GMT"
+    },
+    {
+      "id": "CBMitgFBVV95cUxQbUdsUFppbXhzRWtWWVI5MGxiQndDZUVzY2N4aXFXVkZ4Z3BpMm9BV0FsN2hNRV95V1g1bjl1SjhCWk1ZSFl6Q1AzQTRSQlMwS0N6V3pYSW0zbVY1dXlfRUNWSXRRSGhsN08wWkppWmN6UGF5X0Rsblh2X0dIem5NQWpJU1hUYU9kWjR4M3dGOHhhanJ4dW00TzNvQTVkWlZmVVl2M1JYR1dOZHJnaGE4WVd6QnNSZw",
+      "title": "Mayo Clinic Study Says Eye-Tracking Devices Offer Added Pilot Safety - Mayo Clinic News Network",
+      "source": "Mayo Clinic Aerospace",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUdsUFppbXhzRWtWWVI5MGxiQndDZUVzY2N4aXFXVkZ4Z3BpMm9BV0FsN2hNRV95V1g1bjl1SjhCWk1ZSFl6Q1AzQTRSQlMwS0N6V3pYSW0zbVY1dXlfRUNWSXRRSGhsN08wWkppWmN6UGF5X0Rsblh2X0dIem5NQWpJU1hUYU9kWjR4M3dGOHhhanJ4dW00TzNvQTVkWlZmVVl2M1JYR1dOZHJnaGE4WVd6QnNSZw?oc=5",
+      "date": "Thu, 31 Jul 2014 07:00:00 GMT"
+    },
+    {
+      "id": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+      "title": "APOD: 2026 October 31 \u2013 Night on a Spooky Planet",
+      "source": "NASA Main News",
+      "category": "Industry News",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+      "date": "Sat, 31 Oct 2026 04:05:00 +0000"
+    },
+    {
+      "id": "https://www.nasa.gov/?post_type=press-release&p=1060823",
+      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+      "source": "NASA Main News",
+      "category": "Industry News",
+      "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
+      "date": "Fri, 30 Oct 2026 19:31:02 +0000"
+    },
+    {
+      "id": "https://www.nasa.gov/?post_type=image-article&p=1060579",
+      "title": "NASA\u2019s James Webb Space Telescope Captures Eerie Cat\u2019s Head",
+      "source": "NASA Main News",
+      "category": "Industry News",
+      "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "date": "Fri, 30 Oct 2026 15:56:26 +0000"
+    },
+    {
+      "id": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "source": "NASA Main News",
+      "category": "Industry News",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+      "date": "Fri, 30 Oct 2026 14:51:21 +0000"
+    },
+    {
+      "id": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+      "title": "November\u2019s Night Sky Notes: Light-Day Away",
+      "source": "NASA Main News",
+      "category": "Industry News",
+      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+      "date": "Fri, 30 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "id": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+      "title": "APOD: 2026 October 30 \u2013 Haunting the Cepheus Flare",
+      "source": "NASA Main News",
+      "category": "Industry News",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+      "date": "Fri, 30 Oct 2026 04:05:00 +0000"
+    },
+    {
+      "id": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+      "title": "Vega Island Frozen in Fright",
+      "source": "NASA Main News",
+      "category": "Industry News",
+      "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+      "date": "Fri, 30 Oct 2026 04:01:00 +0000"
+    },
+    {
+      "id": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+      "title": "Map Showing Potential Origins of Martian Meteorite\u00a0Teghaza 001",
+      "source": "NASA Main News",
+      "category": "Industry News",
+      "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+      "date": "Fri, 30 Oct 2026 00:07:39 +0000"
     },
     {
       "id": "https://www.nature.com/articles/s41526-026-00669-y",
@@ -162,68 +530,68 @@
       "date": "2026-10-09"
     },
     {
-      "id": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
-      "title": "APOD: 2026 October 31 \u2013 Night on a Spooky Planet",
-      "source": "NASA News",
+      "id": "https://spacenews.com/?p=624296",
+      "title": "ESI supplying solar array components to missile defense programs",
+      "source": "SpaceNews",
       "category": "Industry News",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
-      "date": "Sat, 31 Oct 2026 04:05:00 +0000"
+      "url": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/",
+      "date": "Fri, 30 Oct 2026 18:54:34 +0000"
     },
     {
-      "id": "https://www.nasa.gov/?post_type=press-release&p=1060823",
-      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
-      "source": "NASA News",
-      "category": "Events",
-      "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
-      "date": "Fri, 30 Oct 2026 19:31:02 +0000"
+      "id": "https://spacenews.com/?p=624004",
+      "title": "Advice for optimizing the space industry with Laura Crabtree",
+      "source": "SpaceNews",
+      "category": "Industry News",
+      "url": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/",
+      "date": "Thu, 29 Oct 2026 15:01:09 +0000"
     },
     {
-      "id": "https://www.nasa.gov/?post_type=image-article&p=1060579",
-      "title": "NASA\u2019s James Webb Space Telescope Captures Eerie Cat\u2019s Head",
-      "source": "NASA News",
+      "id": "https://spacenews.com/?p=623709",
+      "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
+      "source": "SpaceNews",
       "category": "Industry News",
-      "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-      "date": "Fri, 30 Oct 2026 15:56:26 +0000"
+      "url": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
+      "date": "Wed, 28 Oct 2026 14:43:08 +0000"
     },
     {
-      "id": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
-      "source": "NASA News",
+      "id": "https://spacenews.com/?p=623599",
+      "title": "Ukrainian startup, GomSpace test satellite for future communications network",
+      "source": "SpaceNews",
       "category": "Industry News",
-      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-      "date": "Fri, 30 Oct 2026 14:51:21 +0000"
+      "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
+      "date": "Tue, 27 Oct 2026 20:21:30 +0000"
     },
     {
-      "id": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-      "title": "November\u2019s Night Sky Notes: Light-Day Away",
-      "source": "NASA News",
+      "id": "https://spacenews.com/?p=623328",
+      "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+      "source": "SpaceNews",
       "category": "Industry News",
-      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-      "date": "Fri, 30 Oct 2026 10:00:00 +0000"
+      "url": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/",
+      "date": "Tue, 27 Oct 2026 12:00:00 +0000"
     },
     {
-      "id": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
-      "title": "APOD: 2026 October 30 \u2013 Haunting the Cepheus Flare",
-      "source": "NASA News",
+      "id": "https://spacenews.com/?p=623274",
+      "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
+      "source": "SpaceNews",
       "category": "Industry News",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
-      "date": "Fri, 30 Oct 2026 04:05:00 +0000"
+      "url": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/",
+      "date": "Mon, 26 Oct 2026 20:00:00 +0000"
     },
     {
-      "id": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
-      "title": "Vega Island Frozen in Fright",
-      "source": "NASA News",
+      "id": "https://spacenews.com/?p=622856",
+      "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+      "source": "SpaceNews",
       "category": "Industry News",
-      "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
-      "date": "Fri, 30 Oct 2026 04:01:00 +0000"
+      "url": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
+      "date": "Mon, 26 Oct 2026 13:00:00 +0000"
     },
     {
-      "id": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
-      "title": "Map Showing Potential Origins of Martian Meteorite\u00a0Teghaza 001",
-      "source": "NASA News",
+      "id": "https://spacenews.com/?p=622775",
+      "title": "Nov. 5: Satellite Mission Management at the Edge",
+      "source": "SpaceNews",
       "category": "Industry News",
-      "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
-      "date": "Fri, 30 Oct 2026 00:07:39 +0000"
+      "url": "https://spacenews.com/satellite-mission-management-at-the-edge-event/",
+      "date": "Fri, 23 Oct 2026 19:53:25 +0000"
     }
   ]
 }
