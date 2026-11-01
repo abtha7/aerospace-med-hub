@@ -3,47 +3,212 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aerospace Medicine Hub</title>
+    <title>Aerospace Medicine Intelligence Hub</title>
     <style>
-        body { font-family: system-ui, -apple-system, sans-serif; background: #0f172a; color: #f8fafc; margin: 0; padding: 20px; }
-        .container { max-width: 900px; margin: 0 auto; }
-        header { text-align: center; border-bottom: 1px solid #334155; padding-bottom: 20px; margin-bottom: 20px; }
-        .badge { background: #0284c7; color: white; padding: 4px 8px; border-radius: 4px; font-size: 0.8rem; font-weight: bold; }
-        .card { background: #1e293b; border-radius: 8px; padding: 16px; margin-bottom: 12px; border: 1px solid #334155; }
-        .card a { color: #38bdf8; text-decoration: none; font-size: 1.1rem; font-weight: bold; }
-        .card a:hover { text-decoration: underline; }
-        .meta { color: #94a3b8; font-size: 0.85rem; margin-top: 8px; }
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --border-color: #334155;
+            --text-primary: #f8fafc;
+            --text-secondary: #94a3b8;
+            --accent: #38bdf8;
+            --badge-bg: #0284c7;
+        }
+
+        body {
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-primary);
+            margin: 0;
+            padding: 24px 16px;
+        }
+
+        .container { max-width: 960px; margin: 0 auto; }
+
+        header {
+            text-align: center;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 24px;
+            margin-bottom: 24px;
+        }
+
+        h1 { margin: 0 0 8px 0; font-size: 2rem; color: #f1f5f9; }
+        .subtitle { color: var(--text-secondary); margin: 0; font-size: 0.95rem; }
+
+        .controls {
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+
+        .search-bar {
+            width: 100%;
+            padding: 12px 16px;
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+            background: #1e293b;
+            color: #fff;
+            font-size: 1rem;
+            box-sizing: border-box;
+            outline: none;
+        }
+
+        .search-bar:focus { border-color: var(--accent); }
+
+        .tabs {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .tab-btn {
+            background: #1e293b;
+            color: var(--text-secondary);
+            border: 1px solid var(--border-color);
+            padding: 8px 16px;
+            border-radius: 20px;
+            cursor: pointer;
+            font-weight: 500;
+            font-size: 0.88rem;
+            transition: all 0.2s ease;
+        }
+
+        .tab-btn:hover, .tab-btn.active {
+            background: var(--accent);
+            color: #0f172a;
+            border-color: var(--accent);
+            font-weight: 600;
+        }
+
+        .card {
+            background: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            padding: 18px;
+            margin-bottom: 14px;
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+
+        .badge {
+            background: var(--badge-bg);
+            color: #ffffff;
+            font-size: 0.75rem;
+            font-weight: 700;
+            padding: 3px 10px;
+            border-radius: 12px;
+            text-transform: uppercase;
+        }
+
+        .card-title {
+            color: var(--accent);
+            text-decoration: none;
+            font-size: 1.15rem;
+            font-weight: 600;
+            line-height: 1.4;
+            display: block;
+        }
+
+        .card-title:hover { text-decoration: underline; }
+
+        .meta {
+            color: var(--text-secondary);
+            font-size: 0.85rem;
+            margin-top: 10px;
+        }
+
+        .empty-state {
+            text-align: center;
+            color: var(--text-secondary);
+            padding: 40px;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <h1>Aerospace Medicine Research & News Hub</h1>
-            <p id="updated">Loading updates...</p>
+            <h1>Aerospace Medicine Intelligence Hub</h1>
+            <p class="subtitle" id="last-updated">Loading feed...</p>
         </header>
+
+        <div class="controls">
+            <input type="text" id="searchInput" class="search-bar" placeholder="Search by title, keyword, or source (e.g. residency, radiation, PubMed)...">
+            <div class="tabs" id="categoryTabs">
+                <button class="tab-btn active" data-category="All">All</button>
+                <button class="tab-btn" data-category="Research">Research</button>
+                <button class="tab-btn" data-category="Residency">Residency</button>
+                <button class="tab-btn" data-category="Community">Community</button>
+                <button class="tab-btn" data-category="Industry News">Industry News</button>
+                <button class="tab-btn" data-category="Events">Events</button>
+                <button class="tab-btn" data-category="Opportunities">Opportunities</button>
+            </div>
+        </div>
+
         <div id="feed"></div>
     </div>
 
     <script>
-        async function loadFeed() {
+        let allItems = [];
+        let currentCategory = 'All';
+
+        async function initFeed() {
             try {
                 const res = await fetch('./data.json');
                 const data = await res.json();
-                document.getElementById('updated').innerText = `Last Updated: ${data.last_updated}`;
-                
-                const container = document.getElementById('feed');
-                container.innerHTML = data.items.map(item => `
-                    <div class="card">
-                        <span class="badge">${item.category}</span>
-                        <p style="margin: 8px 0;"><a href="${item.url}" target="_blank" rel="noopener">${item.title}</a></p>
-                        <div class="meta">Source: ${item.source} | Date: ${item.date}</div>
-                    </div>
-                `).join('');
+                document.getElementById('last-updated').innerText = `Updated Daily | Last Run: ${data.last_updated}`;
+                allItems = data.items || [];
+                renderFeed();
             } catch (err) {
-                document.getElementById('updated').innerText = 'Error loading updates.';
+                document.getElementById('last-updated').innerText = 'Unable to load updates.';
             }
         }
-        loadFeed();
+
+        function renderFeed() {
+            const searchQuery = document.getElementById('searchInput').value.toLowerCase();
+            const container = document.getElementById('feed');
+
+            const filtered = allItems.filter(item => {
+                const matchesCategory = currentCategory === 'All' || item.category === currentCategory;
+                const matchesSearch = item.title.toLowerCase().includes(searchQuery) ||
+                                      item.source.toLowerCase().includes(searchQuery);
+                return matchesCategory && matchesSearch;
+            });
+
+            if (filtered.length === 0) {
+                container.innerHTML = `<div class="empty-state">No matching updates found. Try adjusting your search query or tab filter.</div>`;
+                return;
+            }
+
+            container.innerHTML = filtered.map(item => `
+                <div class="card">
+                    <div class="card-header">
+                        <span class="badge">${item.category}</span>
+                        <span class="meta">${item.date}</span>
+                    </div>
+                    <a class="card-title" href="${item.url}" target="_blank" rel="noopener">${item.title}</a>
+                    <div class="meta">Source: <strong>${item.source}</strong></div>
+                </div>
+            `).join('');
+        }
+
+        document.getElementById('categoryTabs').addEventListener('click', (e) => {
+            if (e.target.classList.contains('tab-btn')) {
+                document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+                e.target.classList.add('active');
+                currentCategory = e.target.getAttribute('data-category');
+                renderFeed();
+            }
+        });
+
+        document.getElementById('searchInput').addEventListener('input', renderFeed);
+
+        initFeed();
     </script>
 </body>
 </html>
