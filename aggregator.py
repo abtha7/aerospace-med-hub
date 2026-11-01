@@ -8,16 +8,15 @@ HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AerospaceMed
 
 def fetch_pubmed():
     query = urllib.parse.quote('("aerospace medicine" OR "space physiology" OR "space medicine")')
-    search_url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term={query}&retmode=json&sort=pub_date&retmax=15"
+    search_url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term={query}&retmode=json&sort=pub_date&retmax=12"
     
     req = urllib.request.Request(search_url, headers=HEADERS)
+    articles = []
     try:
         with urllib.request.urlopen(req) as response:
             search_data = json.loads(response.read().decode())
         
         id_list = search_data.get("esearchresult", {}).get("idlist", [])
-        articles = []
-        
         if id_list:
             summary_url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id={','.join(id_list)}&retmode=json"
             req_sum = urllib.request.Request(summary_url, headers=HEADERS)
@@ -25,27 +24,44 @@ def fetch_pubmed():
                 summary_data = json.loads(resp.read().decode()).get("result", {})
                 for pmid in id_list:
                     item = summary_data.get(pmid, {})
+                    title = item.get("title", "Untitled Article")
+                    
+                    category = "Research"
+                    if any(term in title.lower() for term in ["residency", "fellowship", "training", "clerkship"]):
+                        category = "Residency"
+                    
                     articles.append({
                         "id": pmid,
-                        "title": item.get("title", "Untitled Article"),
+                        "title": title,
                         "source": "PubMed",
-                        "category": "Research",
+                        "category": category,
                         "url": f"https://pubmed.ncbi.nlm.nih.gov/{pmid}/",
                         "date": item.get("pubdate", "")
                     })
-        return articles
     except Exception as e:
         print(f"Error fetching PubMed: {e}")
-        return []
+    return articles
 
-def fetch_rss(url, source_name, category):
+def fetch_rss(url, source_name, default_category):
     items = []
     try:
         feed = feedparser.parse(url, agent=HEADERS['User-Agent'])
-        for entry in feed.entries[:10]:
+        for entry in feed.entries[:8]:
+            title = entry.get("title", "No Title")
+            title_lower = title.lower()
+            
+            # Intelligent category auto-tagging
+            category = default_category
+            if any(term in title_lower for term in ["residency", "fellowship", "rotation", "clerkship", "utmb", "mayo"]):
+                category = "Residency"
+            elif any(term in title_lower for term in ["grant", "scholarship", "opportunity", "opening", "job", "apply"]):
+                category = "Opportunities"
+            elif any(term in title_lower for term in ["conference", "meeting", "symposium", "webinar", "event"]):
+                category = "Events"
+
             items.append({
                 "id": entry.get("id", entry.get("link", "")),
-                "title": entry.get("title", "No Title"),
+                "title": title,
                 "source": source_name,
                 "category": category,
                 "url": entry.get("link", "#"),
@@ -57,9 +73,10 @@ def fetch_rss(url, source_name, category):
 
 def main():
     sources = [
-        ("https://www.reddit.com/r/aerospace_medicine/.rss", "Reddit", "Community"),
+        ("https://www.reddit.com/r/aerospace_medicine/.rss", "Reddit r/aerospace_medicine", "Community"),
         ("https://asma.org/news/asma-news/", "AsMA News", "Industry News"),
-        ("https://www.nature.com/npjmgrav.rss", "npj Microgravity", "Research")
+        ("https://www.nature.com/npjmgrav.rss", "npj Microgravity", "Research"),
+        ("https://www.nasa.gov/feed/", "NASA News", "Industry News")
     ]
     
     aggregated = []
