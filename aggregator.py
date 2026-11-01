@@ -4,11 +4,13 @@ import urllib.parse
 from datetime import datetime
 import feedparser
 
+HEADERS = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AerospaceMedHub/1.0'}
+
 def fetch_pubmed():
     query = urllib.parse.quote('("aerospace medicine" OR "space physiology" OR "space medicine")')
     search_url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=pubmed&term={query}&retmode=json&sort=pub_date&retmax=15"
     
-    req = urllib.request.Request(search_url, headers={'User-Agent': 'AerospaceMedAggregator/1.0'})
+    req = urllib.request.Request(search_url, headers=HEADERS)
     try:
         with urllib.request.urlopen(req) as response:
             search_data = json.loads(response.read().decode())
@@ -18,7 +20,8 @@ def fetch_pubmed():
         
         if id_list:
             summary_url = f"https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esummary.fcgi?db=pubmed&id={','.join(id_list)}&retmode=json"
-            with urllib.request.urlopen(summary_url) as resp:
+            req_sum = urllib.request.Request(summary_url, headers=HEADERS)
+            with urllib.request.urlopen(req_sum) as resp:
                 summary_data = json.loads(resp.read().decode()).get("result", {})
                 for pmid in id_list:
                     item = summary_data.get(pmid, {})
@@ -38,14 +41,14 @@ def fetch_pubmed():
 def fetch_rss(url, source_name, category):
     items = []
     try:
-        feed = feedparser.parse(url)
+        feed = feedparser.parse(url, agent=HEADERS['User-Agent'])
         for entry in feed.entries[:10]:
             items.append({
-                "id": entry.get("id", entry.link),
-                "title": entry.title,
+                "id": entry.get("id", entry.get("link", "")),
+                "title": entry.get("title", "No Title"),
                 "source": source_name,
                 "category": category,
-                "url": entry.link,
+                "url": entry.get("link", "#"),
                 "date": entry.get("published", entry.get("updated", datetime.utcnow().strftime('%Y-%m-%d')))
             })
     except Exception as e:
