@@ -1,1 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aerospace Medicine Hub</title>
+    <style>
+        body { font-family: system-ui, -apple-system, sans-serif; background: #0f172a; color: #f8fafc; margin: 0; padding: 20px; }
+        .container { max-width: 900px; margin: 0 auto; }
+        header { text-align: center; border-bottom: 1px solid #334155; padding-bottom: 20px; margin-bottom: 20px; }
+        .badge { background: #0284c7; color: white; padding: 4px 8px; border-radius: 4px; font-size: 0.8rem; font-weight: bold; }
+        .card { background: #1e293b; border-radius: 8px; padding: 16px; margin-bottom: 12px; border: 1px solid #334155; }
+        .card a { color: #38bdf8; text-decoration: none; font-size: 1.1rem; font-weight: bold; }
+        .card a:hover { text-decoration: underline; }
+        .meta { color: #94a3b8; font-size: 0.85rem; margin-top: 8px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Aerospace Medicine Research & News Hub</h1>
+            <p id="updated">Loading updates...</p>
+        </header>
+        <div id="feed"></div>
+    </div>
 
+    <script>
+        async function loadFeed() {
+            try {
+                const res = await fetch('./data.json');
+                const data = await res.json();
+                document.getElementById('updated').innerText = `Last Updated: ${data.last_updated}`;
+                
+                const container = document.getElementById('feed');
+                container.innerHTML = data.items.map(item => `
+                    <div class="card">
+                        <span class="badge">${item.category}</span>
+                        <p style="margin: 8px 0;"><a href="${item.url}" target="_blank" rel="noopener">${item.title}</a></p>
+                        <div class="meta">Source: ${item.source} | Date: ${item.date}</div>
+                    </div>
+                `).join('');
+            } catch (err) {
+                document.getElementById('updated').innerText = 'Error loading updates.';
+            }
+        }
+        loadFeed();
+    </script>
+</body>
+</html>
