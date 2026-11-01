@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01 02:38 UTC",
+  "last_updated": "2026-11-01 02:55 UTC",
   "items": [
     {
       "id": "42092775",
@@ -98,30 +98,6 @@
       "date": "2026 Oct 28"
     },
     {
-      "id": "42934469",
-      "title": "Point-of-care ultrasound for confirming endotracheal tube placement in prehospital and critical care transport: a scoping review.",
-      "source": "PubMed",
-      "category": "Research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42934469/",
-      "date": "2026 Oct 26"
-    },
-    {
-      "id": "42925935",
-      "title": "Platelet-macrophage crosstalk in cardiac inflammation and remodeling.",
-      "source": "PubMed",
-      "category": "Research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42925935/",
-      "date": "2026 Oct 24"
-    },
-    {
-      "id": "42920027",
-      "title": "Association of Cholinergic Stimulation with Improved Functional Performance and Neurotrophic Markers in Mild Cognitive Impairment.",
-      "source": "PubMed",
-      "category": "Research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42920027/",
-      "date": "2026 Oct 23"
-    },
-    {
       "id": "https://www.nature.com/articles/s41526-026-00669-y",
       "title": "Characterizing the extrusion bioprinting process and microalgal photosynthetic efficiency in bioprinted constructs during parabolic flights",
       "source": "npj Microgravity",
@@ -184,6 +160,70 @@
       "category": "Research",
       "url": "https://www.nature.com/articles/s41526-026-00664-3",
       "date": "2026-10-09"
+    },
+    {
+      "id": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+      "title": "APOD: 2026 October 31 \u2013 Night on a Spooky Planet",
+      "source": "NASA News",
+      "category": "Industry News",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
+      "date": "Sat, 31 Oct 2026 04:05:00 +0000"
+    },
+    {
+      "id": "https://www.nasa.gov/?post_type=press-release&p=1060823",
+      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+      "source": "NASA News",
+      "category": "Events",
+      "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
+      "date": "Fri, 30 Oct 2026 19:31:02 +0000"
+    },
+    {
+      "id": "https://www.nasa.gov/?post_type=image-article&p=1060579",
+      "title": "NASA\u2019s James Webb Space Telescope Captures Eerie Cat\u2019s Head",
+      "source": "NASA News",
+      "category": "Industry News",
+      "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
+      "date": "Fri, 30 Oct 2026 15:56:26 +0000"
+    },
+    {
+      "id": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "source": "NASA News",
+      "category": "Industry News",
+      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
+      "date": "Fri, 30 Oct 2026 14:51:21 +0000"
+    },
+    {
+      "id": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+      "title": "November\u2019s Night Sky Notes: Light-Day Away",
+      "source": "NASA News",
+      "category": "Industry News",
+      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
+      "date": "Fri, 30 Oct 2026 10:00:00 +0000"
+    },
+    {
+      "id": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+      "title": "APOD: 2026 October 30 \u2013 Haunting the Cepheus Flare",
+      "source": "NASA News",
+      "category": "Industry News",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-30-haunting-the-cepheus-flare/",
+      "date": "Fri, 30 Oct 2026 04:05:00 +0000"
+    },
+    {
+      "id": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+      "title": "Vega Island Frozen in Fright",
+      "source": "NASA News",
+      "category": "Industry News",
+      "url": "https://science.nasa.gov/earth/earth-observatory/vega-island-frozen-in-fright/",
+      "date": "Fri, 30 Oct 2026 04:01:00 +0000"
+    },
+    {
+      "id": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+      "title": "Map Showing Potential Origins of Martian Meteorite\u00a0Teghaza 001",
+      "source": "NASA News",
+      "category": "Industry News",
+      "url": "https://science.nasa.gov/photojournal/map-showing-potential-origins-of-martian-meteorite-teghaza-001/",
+      "date": "Fri, 30 Oct 2026 00:07:39 +0000"
     }
   ]
 }
