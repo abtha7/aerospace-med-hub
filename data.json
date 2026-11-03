@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02 14:29 UTC",
+  "last_updated": "2026-11-03 13:26 UTC",
   "items": [
     {
       "id": "pubmed-42092775",
@@ -50,6 +50,14 @@
       "date": "2026 Dec"
     },
     {
+      "id": "pubmed-42969959",
+      "title": "From theory to practice: a \"Clarify-Bridge-Practice\" seminar model for graduate medical trainees entering cardiovascular research.",
+      "source": "PubMed",
+      "category": "Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42969959/",
+      "date": "2026 Nov 2"
+    },
+    {
       "id": "pubmed-42968595",
       "title": "Cervical 3D-kinematics, muscle-properties and pain in fast-jet pilots versus non-pilots.",
       "source": "PubMed",
@@ -74,12 +82,84 @@
       "date": "2026 Nov"
     },
     {
-      "id": "pubmed-42456996",
-      "title": "Microgravity-induced muscle atrophy in rodent and human models.",
+      "id": "pubmed-42636700",
+      "title": "Development and test-retest reliability of a laboratory-based shipboard firefighting simulation for controlled performance testing.",
       "source": "PubMed",
-      "category": "Research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42456996/",
-      "date": "2026 Nov"
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42636700/",
+      "date": "2027 Feb"
+    },
+    {
+      "id": "pubmed-42874157",
+      "title": "CoilDrop-MRI: Self-supervised physics-guided MRI reconstruction with coil dropout.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874157/",
+      "date": "2027 Jan"
+    },
+    {
+      "id": "pubmed-42843092",
+      "title": "CeLDA+: Prototypical learning for age-robust cephalometric landmark detection.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843092/",
+      "date": "2027 Jan"
+    },
+    {
+      "id": "pubmed-42766966",
+      "title": "RadGS-Reg+: Teacher-student radiative Gaussian reconstruction and 3D/3D registration for lumbar CT/X-ray registration.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766966/",
+      "date": "2027 Jan"
+    },
+    {
+      "id": "pubmed-42715697",
+      "title": "Unsupervised motion artifact purification guided by joint prior from pixel and k-space domains.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42715697/",
+      "date": "2027 Jan"
+    },
+    {
+      "id": "pubmed-42598142",
+      "title": "A hierarchical, pH-responsive nanocomposite hydrogel platform for synergistic microenvironment reprogramming and attenuation of inflammatory periodontal bone loss.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42598142/",
+      "date": "2027 Jan"
+    },
+    {
+      "id": "pubmed-42537458",
+      "title": "Architecture-driven engineered lattice tetrahedral micro-scaffolds for extraskeletal osteogenesis.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42537458/",
+      "date": "2027 Jan"
+    },
+    {
+      "id": "pubmed-42442245",
+      "title": "Learning general representation of 12-lead ECG with a joint-embedding predictive architecture.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42442245/",
+      "date": "2027 Jan"
+    },
+    {
+      "id": "pubmed-42466900",
+      "title": "Voices from the neonatal unit: Mothers' and healthcare workers' perspectives on respectful and collaborative care for small and sick newborns in rural districts in KwaZulu-Natal, South Africa.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42466900/",
+      "date": "2026 Dec 31"
+    },
+    {
+      "id": "pubmed-42417836",
+      "title": "Identity without milestones: a narrative inquiry into the rites of passage shaping professional identity formation in health professions educators.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42417836/",
+      "date": "2026 Dec 31"
     },
     {
       "id": "CBMimAFBVV95cUxPampQSWZuVVZGUjJHU0YtdkluUkpQcHoybnV6SkYzcEZBME5USGZBZHlTTy0xM2F5RGE2UFlGcnp4OVRRRnZ3YmJTUW5wemxJWlNIMngwZHUtV3dnelF6MjJyQnNZd3I3enNSeWFQVTRRTFRFd3Y5OFh0SHNmbUxGRHE3ZWFObjhzSU81d0JEMTJUQkhUV3dwdw",
@@ -88,6 +168,22 @@
       "category": "Industry News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPampQSWZuVVZGUjJHU0YtdkluUkpQcHoybnV6SkYzcEZBME5USGZBZHlTTy0xM2F5RGE2UFlGcnp4OVRRRnZ3YmJTUW5wemxJWlNIMngwZHUtV3dnelF6MjJyQnNZd3I3enNSeWFQVTRRTFRFd3Y5OFh0SHNmbUxGRHE3ZWFObjhzSU81d0JEMTJUQkhUV3dwdw?oc=5",
       "date": "Fri, 21 Aug 2026 07:00:00 GMT"
+    },
+    {
+      "id": "CBMiWkFVX3lxTFBqaW02b2ROZVd5RTMzaXpvUWh5eURxTjRNUXY4eXBkWXg5SUxxdThjNGk3M2pnMTlNeWRMYWxSam9NSldfV1dtZDFOQll3bHNfMjRCbE1iQlhhZw",
+      "title": "#GDTBATH: Tom Diaz - The University of North Carolina at Chapel Hill",
+      "source": "AsMA Coverage",
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqaW02b2ROZVd5RTMzaXpvUWh5eURxTjRNUXY4eXBkWXg5SUxxdThjNGk3M2pnMTlNeWRMYWxSam9NSldfV1dtZDFOQll3bHNfMjRCbE1iQlhhZw?oc=5",
+      "date": "Sun, 11 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "id": "CBMixgFBVV95cUxPOFdlZEVPa0daVWI4Z3JJQk5qbmNTSmlGa3F6dHZLTlg3dGV4eWZYTEZvYzRMNVRnVVRCV19GRWYxbWpybWhXQzIxZkdQVVBKWm50a1pQZTBwS1pXTmdNcF9aUGE3LXpHWFhFODFMUVFIX1R6OGxDNmhPQXlNQmFiOW00bWkyYm15aHlFVWtpbkdiSXFWRU53QmNLV3FncXkyTnVHWHNUMVpUT1RyVEQ2bkQ0Y01QYmVvNEJyRWRCd2tjWkdpZEE",
+      "title": "59th Medical Wing doctor wins prestigious award for excellence in aerospace behavioral health - Joint Base San Antonio (.mil)",
+      "source": "AsMA Coverage",
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFdlZEVPa0daVWI4Z3JJQk5qbmNTSmlGa3F6dHZLTlg3dGV4eWZYTEZvYzRMNVRnVVRCV19GRWYxbWpybWhXQzIxZkdQVVBKWm50a1pQZTBwS1pXTmdNcF9aUGE3LXpHWFhFODFMUVFIX1R6OGxDNmhPQXlNQmFiOW00bWkyYm15aHlFVWtpbkdiSXFWRU53QmNLV3FncXkyTnVHWHNUMVpUT1RyVEQ2bkQ0Y01QYmVvNEJyRWRCd2tjWkdpZEE?oc=5",
+      "date": "Tue, 24 Mar 2026 17:16:52 GMT"
     },
     {
       "id": "CBMinwFBVV95cUxQVmY3YjNkQWswaDRyU2xZaHpFckJ1TnRMZkhEUVhZdzdqNC1hd1RRZ184SFdjWkJjdUZiU1NBbkgxRkVnS2FTNGo0a1FxelE5ZU95aVZ1bXNhUlNibUtxN0VtVjFCWFFoZVVhckdrTVZtczJnQWRCWEUyTzJwdHZFTGRzOUprYTRIdFZOYjdLY3dwTGprZHFLN3FqTUg1cmM",
@@ -114,12 +210,12 @@
       "date": "Fri, 22 May 2026 07:00:00 GMT"
     },
     {
-      "id": "CBMipAFBVV95cUxOTTRBRGE0MkVuQjVMLWRYaUJONllqVXpDOVVHeDVQTWhUOVJ1WXpHdEJLYVhCdTFrcU9TZHBfdllkeUpfeUJIUDNPVUY1bzZHS0JhUEU0azQxSjhNcmlHdFVoY0o0VEdFZE5iQmlaOFQ4czB1TmU4d0JvMFMxaERlTHBJQTR0WG4yZ2VGcnNaVlVjRkotQXhJaUpYMTlmelgzMjA0cw",
-      "title": "MIT's Doctors Without Gravity club builds community around space medicine - news.lavx.hu",
+      "id": "CBMiekFVX3lxTE5CSGxXeUxuTE5TQlBranpwMy1jYXhsUVZSMGF6SFdHVlFNYUtSSV9pRTVPSWdfU3VNclJUdmw4Rk5ua0dndGtncXJBQXhHUlBPRHdDdDA0cUxWa01MTEFvUncyS2VYZVZKNmp2Y3BadTJtbDBmWTFrRW1n",
+      "title": "Pharmacy student sets own course at NASA - The University of North Carolina at Chapel Hill",
       "source": "AsMA Coverage",
       "category": "Industry News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTRBRGE0MkVuQjVMLWRYaUJONllqVXpDOVVHeDVQTWhUOVJ1WXpHdEJLYVhCdTFrcU9TZHBfdllkeUpfeUJIUDNPVUY1bzZHS0JhUEU0azQxSjhNcmlHdFVoY0o0VEdFZE5iQmlaOFQ4czB1TmU4d0JvMFMxaERlTHBJQTR0WG4yZ2VGcnNaVlVjRkotQXhJaUpYMTlmelgzMjA0cw?oc=5",
-      "date": "Thu, 22 Oct 2026 01:21:36 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CSGxXeUxuTE5TQlBranpwMy1jYXhsUVZSMGF6SFdHVlFNYUtSSV9pRTVPSWdfU3VNclJUdmw4Rk5ua0dndGtncXJBQXhHUlBPRHdDdDA0cUxWa01MTEFvUncyS2VYZVZKNmp2Y3BadTJtbDBmWTFrRW1n?oc=5",
+      "date": "Sun, 11 Oct 2026 07:00:00 GMT"
     },
     {
       "id": "CBMizAFBVV95cUxQYUpDSzRzZzFGM1c2VkFnMy05Wk5FbHhBYVVnQ29iS2x5Z19KTnhpQjFmak1lcWdsaS1id3g1UHV6dDZ3cDdnaHdvSkVTamdMVmYwTElPVFVJRzI0MzNhZjFfRlIzX1BSMlpjUk5SWUhhVXhyV3dRSGtqZmtnNmdLWXVOMkJwbzRLbHBXX2NseDQ2QjV2NmtRbHdFclA2RGt3OUN5blR2TnNqdF9FZnJISmtDX0lqcXBWTi1qUV84bzhPc1ZaQjBvazRqNFQ",
@@ -128,22 +224,6 @@
       "category": "Events",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUpDSzRzZzFGM1c2VkFnMy05Wk5FbHhBYVVnQ29iS2x5Z19KTnhpQjFmak1lcWdsaS1id3g1UHV6dDZ3cDdnaHdvSkVTamdMVmYwTElPVFVJRzI0MzNhZjFfRlIzX1BSMlpjUk5SWUhhVXhyV3dRSGtqZmtnNmdLWXVOMkJwbzRLbHBXX2NseDQ2QjV2NmtRbHdFclA2RGt3OUN5blR2TnNqdF9FZnJISmtDX0lqcXBWTi1qUV84bzhPc1ZaQjBvazRqNFQ?oc=5",
       "date": "Mon, 06 Jun 2022 07:00:00 GMT"
-    },
-    {
-      "id": "CBMirwFBVV95cUxPSnpxNXpFWmVOUzl4R0ZjVUVFYnF6b2JZNFVaQW9sTjZORFpsMEZDckZjUUdZa0ZRaDI1VE9Gc2VBbC1IRURiVzlMY2ZQTFhoRk1yYVhhUlMxNnRRcFp1ejFSOUdpcXNyYXl3OEtkYV80bmo1dExpUHBkUkVZZ0c5eWdOU244R1IyVjhwUlY3a29yNDVoel9ZWkN0LXlyNVFFVnV5NEtfcmVNblYwdnkw",
-      "title": "What it\u2019s like in aerospace medicine: Shadowing Dr. Ortega - American Medical Association | AMA",
-      "source": "AsMA Coverage",
-      "category": "Industry News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnpxNXpFWmVOUzl4R0ZjVUVFYnF6b2JZNFVaQW9sTjZORFpsMEZDckZjUUdZa0ZRaDI1VE9Gc2VBbC1IRURiVzlMY2ZQTFhoRk1yYVhhUlMxNnRRcFp1ejFSOUdpcXNyYXl3OEtkYV80bmo1dExpUHBkUkVZZ0c5eWdOU244R1IyVjhwUlY3a29yNDVoel9ZWkN0LXlyNVFFVnV5NEtfcmVNblYwdnkw?oc=5",
-      "date": "Wed, 14 Aug 2019 07:00:00 GMT"
-    },
-    {
-      "id": "CBMifkFVX3lxTFBuaEozNWVFVTlVUlNxY2VzSGdzQ0NQRnRaMVRqSEsxa3gtNFNtM292VjFiZmdiV3RYQWFLTzBzcmo5b3pFWHhMX2F2cTJLdlBlY0RQbk9saVhNRzBqeTRGUFdpUk9KRVU3T1ZsUkwzanoyWTJpbElVSWJGUDE2dw",
-      "title": "Aerospace Medicine Clerkship - NASA (.gov)",
-      "source": "AsMA Coverage",
-      "category": "Residency",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuaEozNWVFVTlVUlNxY2VzSGdzQ0NQRnRaMVRqSEsxa3gtNFNtM292VjFiZmdiV3RYQWFLTzBzcmo5b3pFWHhMX2F2cTJLdlBlY0RQbk9saVhNRzBqeTRGUFdpUk9KRVU3T1ZsUkwzanoyWTJpbElVSWJGUDE2dw?oc=5",
-      "date": "Mon, 30 Sep 2024 07:00:00 GMT"
     },
     {
       "id": "CBMiogFBVV95cUxPTElHeTBIREM0YThrTEZUV2pmS2lTNzNLSnNxa3ExazVLREdad0hKODBBMHhGWU9RYmJmOEtROHFIM0JZcUw0SFIxSGVYRDVEdk45d3Z3QVJsSlc4aXhCMHktS2swVGRwVEE0cGhaMkRRaWx6eTNuU2tudVVmV2t6dmdFUVoyZWJGd3lpZGY4ZUxwTFk0TFVKNmI1R0doM01CUWc",
@@ -170,20 +250,20 @@
       "date": "Sat, 10 Dec 2022 08:00:00 GMT"
     },
     {
-      "id": "CBMiUkFVX3lxTE5ZOGx2OXIwR3hVNFVYX1psTWFaa1ZZZjVyRXo4cWlMclFBUG05eEtrYTVreDU4VUxLMGc4c3JVMFFGanVIT2NrcTZDRE9CNlFLcnc",
-      "title": "Check out the OSDR Team at ASGSR 2024 - NASA (.gov)",
-      "source": "ASGSR Updates",
-      "category": "Events",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZOGx2OXIwR3hVNFVYX1psTWFaa1ZZZjVyRXo4cWlMclFBUG05eEtrYTVreDU4VUxLMGc4c3JVMFFGanVIT2NrcTZDRE9CNlFLcnc?oc=5",
-      "date": "Wed, 13 Nov 2024 19:17:48 GMT"
-    },
-    {
       "id": "CBMipgFBVV95cUxQNHFEcy14M2lyLTJZV2pPWi1ONGlDNXB6dEpEcXB3V3lfcEs3SXpicURxMVlteGI2b2x4QVNUS1QyTzJnRFc1cWk2SllWNnlsdGIwc1RHOFZoRUoyM3BaUWM3dHVBOXBuWWhDMWd1TFExUm1EUHZDa2FyNjdBdV9wbnktRGwtMEJQTXo4dnhMNTRQR2NnX2pHMy1FUTVLODZNdDVwOU9B",
       "title": "Dr. Marshall Porterfield Appointed ASGSR Fellow - Purdue University",
       "source": "ASGSR Updates",
       "category": "Industry News",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHFEcy14M2lyLTJZV2pPWi1ONGlDNXB6dEpEcXB3V3lfcEs3SXpicURxMVlteGI2b2x4QVNUS1QyTzJnRFc1cWk2SllWNnlsdGIwc1RHOFZoRUoyM3BaUWM3dHVBOXBuWWhDMWd1TFExUm1EUHZDa2FyNjdBdV9wbnktRGwtMEJQTXo4dnhMNTRQR2NnX2pHMy1FUTVLODZNdDVwOU9B?oc=5",
       "date": "Fri, 13 Dec 2024 08:00:00 GMT"
+    },
+    {
+      "id": "CBMihAJBVV95cUxOalFvczFpR3ExNzU3Wl9HRXJhWEROanNWX0JVUFhEdnFsZGh6MndqVEtUeHlZMGJUNk1BOGlPbzJNX1BwbzdMekttOHpBMTJRQVBzSF95YXVTZWgyMUJRTkJPM0dJcjNKRWU3VmUxSTNiOTY5dFNCZU9NUFBkVk1zekw4SERGaDk4bzR6TVMxUFVfQ2Jpd3NIdW04X29yR2FZWjdBbVBVcGhlcGtJVFV5OUZ4V2RRckp2RWpCQ19xdWJYRWxibWQyOTlUbk1pZk44V3RhOTJpN181MDZCRTR6V0FVaFdpeUF2cV85Z1ZCeGN5TGlHQlhSUi1WZVRQb1MxWEZFQQ",
+      "title": "Growing Beyond Earth High School Student Wins the American Society of Gravitational Space Research Scholarship - NASA Science (.gov)",
+      "source": "ASGSR Updates",
+      "category": "Opportunities",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOalFvczFpR3ExNzU3Wl9HRXJhWEROanNWX0JVUFhEdnFsZGh6MndqVEtUeHlZMGJUNk1BOGlPbzJNX1BwbzdMekttOHpBMTJRQVBzSF95YXVTZWgyMUJRTkJPM0dJcjNKRWU3VmUxSTNiOTY5dFNCZU9NUFBkVk1zekw4SERGaDk4bzR6TVMxUFVfQ2Jpd3NIdW04X29yR2FZWjdBbVBVcGhlcGtJVFV5OUZ4V2RRckp2RWpCQ19xdWJYRWxibWQyOTlUbk1pZk44V3RhOTJpN181MDZCRTR6V0FVaFdpeUF2cV85Z1ZCeGN5TGlHQlhSUi1WZVRQb1MxWEZFQQ?oc=5",
+      "date": "Sat, 18 Nov 2023 08:00:00 GMT"
     },
     {
       "id": "CBMihwFBVV95cUxQX2s1MWN4NUVJbjZEOU05aVNiMWNHLWtQRTEzZldWQVFKNzcxNmtGWFJuVVd2ZjVXSFZtWnlUOFE0MXVma09jQmdXT2s2dUY4RlpETEUyallVYjdqREVOMkRDTWRwZVQ2MXNzYjRPYjJTNkRneGZCNFNtQ3FvN2FPeWt2eWRrTkk",
@@ -202,12 +282,12 @@
       "date": "Sun, 05 Nov 2017 07:00:00 GMT"
     },
     {
-      "id": "CBMihAJBVV95cUxOalFvczFpR3ExNzU3Wl9HRXJhWEROanNWX0JVUFhEdnFsZGh6MndqVEtUeHlZMGJUNk1BOGlPbzJNX1BwbzdMekttOHpBMTJRQVBzSF95YXVTZWgyMUJRTkJPM0dJcjNKRWU3VmUxSTNiOTY5dFNCZU9NUFBkVk1zekw4SERGaDk4bzR6TVMxUFVfQ2Jpd3NIdW04X29yR2FZWjdBbVBVcGhlcGtJVFV5OUZ4V2RRckp2RWpCQ19xdWJYRWxibWQyOTlUbk1pZk44V3RhOTJpN181MDZCRTR6V0FVaFdpeUF2cV85Z1ZCeGN5TGlHQlhSUi1WZVRQb1MxWEZFQQ",
-      "title": "Growing Beyond Earth High School Student Wins the American Society of Gravitational Space Research Scholarship - NASA Science (.gov)",
+      "id": "CBMiekFVX3lxTFBOVHA4WWlnd1ZqVlhkc0hXc3BxT2NBaXIzclF2M0lxc3h3a0VlWWNjVFJleFZoZnY1SU4xQWZEYU9ua3k4S28tcGtRNUhsc3VhaFNGdEx1ak5Jdk51X1hYWkR5WXVqanE1S1JPRnU2UzNLM3lXZmxxS0h3",
+      "title": "NS-23 to Fly 36 Payloads and Tens of Thousands of Club for the Future Postcards to Space - Blue Origin",
       "source": "ASGSR Updates",
-      "category": "Opportunities",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOalFvczFpR3ExNzU3Wl9HRXJhWEROanNWX0JVUFhEdnFsZGh6MndqVEtUeHlZMGJUNk1BOGlPbzJNX1BwbzdMekttOHpBMTJRQVBzSF95YXVTZWgyMUJRTkJPM0dJcjNKRWU3VmUxSTNiOTY5dFNCZU9NUFBkVk1zekw4SERGaDk4bzR6TVMxUFVfQ2Jpd3NIdW04X29yR2FZWjdBbVBVcGhlcGtJVFV5OUZ4V2RRckp2RWpCQ19xdWJYRWxibWQyOTlUbk1pZk44V3RhOTJpN181MDZCRTR6V0FVaFdpeUF2cV85Z1ZCeGN5TGlHQlhSUi1WZVRQb1MxWEZFQQ?oc=5",
-      "date": "Sat, 18 Nov 2023 08:00:00 GMT"
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOVHA4WWlnd1ZqVlhkc0hXc3BxT2NBaXIzclF2M0lxc3h3a0VlWWNjVFJleFZoZnY1SU4xQWZEYU9ua3k4S28tcGtRNUhsc3VhaFNGdEx1ak5Jdk51X1hYWkR5WXVqanE1S1JPRnU2UzNLM3lXZmxxS0h3?oc=5",
+      "date": "Wed, 24 Aug 2022 07:00:00 GMT"
     },
     {
       "id": "CBMidkFVX3lxTE5JbkQyRHNPOUtwVkFDN0N5cHVhemxCM09vQ3EwMzEzdU1xbVd0NFhFRW9XVk1GZjE2eUZySVM2RnhfMWlmMjhoTDRIUUFyMWpFdUZLaUFZS3B2cFItOFpHNFBaRnh6VHRmQXlTMW11MjdTbTNpRHc",
@@ -402,68 +482,68 @@
       "date": "Wed, 13 Sep 2017 07:00:00 GMT"
     },
     {
-      "id": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
-      "title": "APOD: 2026 November 2 \u2013 A Long Cloud on Mars",
+      "id": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
+      "title": "APOD: 2026 November 3 \u2013 Comet PanSTARRs and Rainbow Meteor",
       "source": "NASA Main News",
       "category": "Industry News",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
-      "date": "Mon, 02 Nov 2026 05:05:00 +0000"
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
+      "date": "Tue, 03 Nov 2026 05:05:00 +0000"
     },
     {
-      "id": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
-      "title": "Pennsylvania\u2019s Grand Canyon",
+      "id": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+      "title": "The Pacific\u2019s Busy Storm Season",
       "source": "NASA Main News",
       "category": "Industry News",
-      "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
-      "date": "Mon, 02 Nov 2026 05:01:00 +0000"
+      "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
+      "date": "Tue, 03 Nov 2026 05:01:00 +0000"
     },
     {
-      "id": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
-      "title": "APOD: 2026 November 1 \u2013 Colors of the Moon",
+      "id": "https://www.nasa.gov/?p=1060674",
+      "title": "Happy 65 Years: NASA\u2019s Johnson Space Center Then and Now",
       "source": "NASA Main News",
       "category": "Industry News",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-1-colors-of-the-moon/",
-      "date": "Sun, 01 Nov 2026 04:05:00 +0000"
+      "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+      "date": "Mon, 02 Nov 2026 21:35:59 +0000"
     },
     {
-      "id": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
-      "title": "APOD: 2026 October 31 \u2013 Night on a Spooky Planet",
+      "id": "https://www.nasa.gov/?p=1061198",
+      "title": "TB 26-09 Measured Hammer-Tap Inputs",
       "source": "NASA Main News",
       "category": "Industry News",
-      "url": "https://science.nasa.gov/image-article/apod-2026-october-31-night-on-a-spooky-planet/",
-      "date": "Sat, 31 Oct 2026 04:05:00 +0000"
+      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
+      "date": "Mon, 02 Nov 2026 20:47:41 +0000"
     },
     {
-      "id": "https://www.nasa.gov/?post_type=press-release&p=1060823",
-      "title": "NASA Releases MAX POWER Key Events for Media, Participants",
+      "id": "https://www.nasa.gov/?post_type=image-article&p=1061197",
+      "title": "NASA\u2019s CHAPEA Crew \u201cReturns\u201d to Earth",
       "source": "NASA Main News",
       "category": "Industry News",
-      "url": "https://www.nasa.gov/news-release/nasa-releases-max-power-key-events-for-media-participants/",
-      "date": "Fri, 30 Oct 2026 19:31:02 +0000"
+      "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
+      "date": "Mon, 02 Nov 2026 18:50:42 +0000"
     },
     {
-      "id": "https://www.nasa.gov/?post_type=image-article&p=1060579",
-      "title": "NASA\u2019s James Webb Space Telescope Captures Eerie Cat\u2019s Head",
+      "id": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+      "title": "What\u2019s Up: November 2026 Skywatching Tips from NASA",
       "source": "NASA Main News",
       "category": "Industry News",
-      "url": "https://www.nasa.gov/image-article/nasas-james-webb-space-telescope-captures-eerie-cats-head/",
-      "date": "Fri, 30 Oct 2026 15:56:26 +0000"
+      "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+      "date": "Mon, 02 Nov 2026 18:19:58 +0000"
     },
     {
-      "id": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-      "title": "NASA Explores Potential Commercial Servicing for Hubble Telescope",
+      "id": "https://www.nasa.gov/?post_type=press-release&p=1061180",
+      "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
       "source": "NASA Main News",
       "category": "Industry News",
-      "url": "https://science.nasa.gov/missions/hubble/nasa-explores-potential-commercial-servicing-for-hubble-telescope/",
-      "date": "Fri, 30 Oct 2026 14:51:21 +0000"
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
+      "date": "Mon, 02 Nov 2026 17:33:22 +0000"
     },
     {
-      "id": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-      "title": "November\u2019s Night Sky Notes: Light-Day Away",
+      "id": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
+      "title": "NASA\u2019s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
       "source": "NASA Main News",
       "category": "Industry News",
-      "url": "https://science.nasa.gov/solar-system/skywatching/night-sky-network/novembers-night-sky-notes-light-day-away/",
-      "date": "Fri, 30 Oct 2026 10:00:00 +0000"
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
+      "date": "Mon, 02 Nov 2026 15:00:39 +0000"
     },
     {
       "id": "https://www.nature.com/articles/s41526-026-00669-y",
