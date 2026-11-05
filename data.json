@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04 13:37 UTC",
+  "last_updated": "2026-11-05 13:50 UTC",
   "items": [
     {
       "id": "pubmed-42092775",
@@ -58,6 +58,14 @@
       "date": "2026 Nov 10"
     },
     {
+      "id": "pubmed-42982387",
+      "title": "Microgravity and Cardiac Electrophysiology: Autonomic Remodeling, Arrhythmogenesis, and Implications for Long-Duration Spaceflight.",
+      "source": "PubMed",
+      "category": "Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42982387/",
+      "date": "2026 Nov 4"
+    },
+    {
       "id": "pubmed-42977023",
       "title": "Polygenic susceptibility modifies the association between long-term physical activity patterns and major adverse cardiovascular events: Insights from a target trial emulation study.",
       "source": "PubMed",
@@ -74,12 +82,92 @@
       "date": "2026 Nov 2"
     },
     {
-      "id": "pubmed-42968595",
-      "title": "Cervical 3D-kinematics, muscle-properties and pain in fast-jet pilots versus non-pilots.",
+      "id": "pubmed-42636700",
+      "title": "Development and test-retest reliability of a laboratory-based shipboard firefighting simulation for controlled performance testing.",
       "source": "PubMed",
-      "category": "Research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42968595/",
-      "date": "2026 Nov 2"
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42636700/",
+      "date": "2027 Feb"
+    },
+    {
+      "id": "pubmed-42874157",
+      "title": "CoilDrop-MRI: Self-supervised physics-guided MRI reconstruction with coil dropout.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42874157/",
+      "date": "2027 Jan"
+    },
+    {
+      "id": "pubmed-42843092",
+      "title": "CeLDA+: Prototypical learning for age-robust cephalometric landmark detection.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42843092/",
+      "date": "2027 Jan"
+    },
+    {
+      "id": "pubmed-42766966",
+      "title": "RadGS-Reg+: Teacher-student radiative Gaussian reconstruction and 3D/3D registration for lumbar CT/X-ray registration.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42766966/",
+      "date": "2027 Jan"
+    },
+    {
+      "id": "pubmed-42715697",
+      "title": "Unsupervised motion artifact purification guided by joint prior from pixel and k-space domains.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42715697/",
+      "date": "2027 Jan"
+    },
+    {
+      "id": "pubmed-42598142",
+      "title": "A hierarchical, pH-responsive nanocomposite hydrogel platform for synergistic microenvironment reprogramming and attenuation of inflammatory periodontal bone loss.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42598142/",
+      "date": "2027 Jan"
+    },
+    {
+      "id": "pubmed-42537458",
+      "title": "Architecture-driven engineered lattice tetrahedral micro-scaffolds for extraskeletal osteogenesis.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42537458/",
+      "date": "2027 Jan"
+    },
+    {
+      "id": "pubmed-42442245",
+      "title": "Learning general representation of 12-lead ECG with a joint-embedding predictive architecture.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42442245/",
+      "date": "2027 Jan"
+    },
+    {
+      "id": "pubmed-42466900",
+      "title": "Voices from the neonatal unit: Mothers' and healthcare workers' perspectives on respectful and collaborative care for small and sick newborns in rural districts in KwaZulu-Natal, South Africa.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42466900/",
+      "date": "2026 Dec 31"
+    },
+    {
+      "id": "pubmed-42417836",
+      "title": "Identity without milestones: a narrative inquiry into the rites of passage shaping professional identity formation in health professions educators.",
+      "source": "PubMed",
+      "category": "Residency",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42417836/",
+      "date": "2026 Dec 31"
+    },
+    {
+      "id": "CBMiWkFVX3lxTFBqaW02b2ROZVd5RTMzaXpvUWh5eURxTjRNUXY4eXBkWXg5SUxxdThjNGk3M2pnMTlNeWRMYWxSam9NSldfV1dtZDFOQll3bHNfMjRCbE1iQlhhZw",
+      "title": "#GDTBATH: Tom Diaz - The University of North Carolina at Chapel Hill",
+      "source": "AsMA Coverage",
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqaW02b2ROZVd5RTMzaXpvUWh5eURxTjRNUXY4eXBkWXg5SUxxdThjNGk3M2pnMTlNeWRMYWxSam9NSldfV1dtZDFOQll3bHNfMjRCbE1iQlhhZw?oc=5",
+      "date": "Sun, 11 Oct 2026 07:00:00 GMT"
     },
     {
       "id": "CBMimAFBVV95cUxPampQSWZuVVZGUjJHU0YtdkluUkpQcHoybnV6SkYzcEZBME5USGZBZHlTTy0xM2F5RGE2UFlGcnp4OVRRRnZ3YmJTUW5wemxJWlNIMngwZHUtV3dnelF6MjJyQnNZd3I3enNSeWFQVTRRTFRFd3Y5OFh0SHNmbUxGRHE3ZWFObjhzSU81d0JEMTJUQkhUV3dwdw",
@@ -90,12 +178,12 @@
       "date": "Fri, 21 Aug 2026 07:00:00 GMT"
     },
     {
-      "id": "CBMipAFBVV95cUxOTTRBRGE0MkVuQjVMLWRYaUJONllqVXpDOVVHeDVQTWhUOVJ1WXpHdEJLYVhCdTFrcU9TZHBfdllkeUpfeUJIUDNPVUY1bzZHS0JhUEU0azQxSjhNcmlHdFVoY0o0VEdFZE5iQmlaOFQ4czB1TmU4d0JvMFMxaERlTHBJQTR0WG4yZ2VGcnNaVlVjRkotQXhJaUpYMTlmelgzMjA0cw",
-      "title": "MIT's Doctors Without Gravity club builds community around space medicine - news.lavx.hu",
+      "id": "CBMiekFVX3lxTE5CSGxXeUxuTE5TQlBranpwMy1jYXhsUVZSMGF6SFdHVlFNYUtSSV9pRTVPSWdfU3VNclJUdmw4Rk5ua0dndGtncXJBQXhHUlBPRHdDdDA0cUxWa01MTEFvUncyS2VYZVZKNmp2Y3BadTJtbDBmWTFrRW1n",
+      "title": "Pharmacy student sets own course at NASA - The University of North Carolina at Chapel Hill",
       "source": "AsMA Coverage",
       "category": "Industry News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTRBRGE0MkVuQjVMLWRYaUJONllqVXpDOVVHeDVQTWhUOVJ1WXpHdEJLYVhCdTFrcU9TZHBfdllkeUpfeUJIUDNPVUY1bzZHS0JhUEU0azQxSjhNcmlHdFVoY0o0VEdFZE5iQmlaOFQ4czB1TmU4d0JvMFMxaERlTHBJQTR0WG4yZ2VGcnNaVlVjRkotQXhJaUpYMTlmelgzMjA0cw?oc=5",
-      "date": "Thu, 22 Oct 2026 07:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CSGxXeUxuTE5TQlBranpwMy1jYXhsUVZSMGF6SFdHVlFNYUtSSV9pRTVPSWdfU3VNclJUdmw4Rk5ua0dndGtncXJBQXhHUlBPRHdDdDA0cUxWa01MTEFvUncyS2VYZVZKNmp2Y3BadTJtbDBmWTFrRW1n?oc=5",
+      "date": "Sun, 11 Oct 2026 07:00:00 GMT"
     },
     {
       "id": "CBMinwFBVV95cUxNT3RSZWlxT0JmVWU0WGZrN0xDSVp6WXR5ZWNXQnRvLXRCU0FQQktReFd5YVJIWlA4SWxZS3k0aXdJajFVU2FUUk4zVXR6aVNHXzRDT29YNS1vckViTzdDVTVVOXRjOXFRQjF6SnBUNnYyLVVnd1MxcmsxRlc0NXMzNWFhUlBsVmdtRkFrNXZNaFQxQzAyNEgweE0yLVhZbTQ",
@@ -104,6 +192,14 @@
       "category": "Industry News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3RSZWlxT0JmVWU0WGZrN0xDSVp6WXR5ZWNXQnRvLXRCU0FQQktReFd5YVJIWlA4SWxZS3k0aXdJajFVU2FUUk4zVXR6aVNHXzRDT29YNS1vckViTzdDVTVVOXRjOXFRQjF6SnBUNnYyLVVnd1MxcmsxRlc0NXMzNWFhUlBsVmdtRkFrNXZNaFQxQzAyNEgweE0yLVhZbTQ?oc=5",
       "date": "Fri, 22 May 2026 07:00:00 GMT"
+    },
+    {
+      "id": "CBMixgFBVV95cUxPOFdlZEVPa0daVWI4Z3JJQk5qbmNTSmlGa3F6dHZLTlg3dGV4eWZYTEZvYzRMNVRnVVRCV19GRWYxbWpybWhXQzIxZkdQVVBKWm50a1pQZTBwS1pXTmdNcF9aUGE3LXpHWFhFODFMUVFIX1R6OGxDNmhPQXlNQmFiOW00bWkyYm15aHlFVWtpbkdiSXFWRU53QmNLV3FncXkyTnVHWHNUMVpUT1RyVEQ2bkQ0Y01QYmVvNEJyRWRCd2tjWkdpZEE",
+      "title": "59th Medical Wing doctor wins prestigious award for excellence in aerospace behavioral health - Joint Base San Antonio (.mil)",
+      "source": "AsMA Coverage",
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFdlZEVPa0daVWI4Z3JJQk5qbmNTSmlGa3F6dHZLTlg3dGV4eWZYTEZvYzRMNVRnVVRCV19GRWYxbWpybWhXQzIxZkdQVVBKWm50a1pQZTBwS1pXTmdNcF9aUGE3LXpHWFhFODFMUVFIX1R6OGxDNmhPQXlNQmFiOW00bWkyYm15aHlFVWtpbkdiSXFWRU53QmNLV3FncXkyTnVHWHNUMVpUT1RyVEQ2bkQ0Y01QYmVvNEJyRWRCd2tjWkdpZEE?oc=5",
+      "date": "Tue, 24 Mar 2026 17:16:52 GMT"
     },
     {
       "id": "CBMi1AFBVV95cUxQTGZRRmVWajI3ZGZJS0xtbUdqU1lBQ25sb1ViZjhnSlM0dVpBNlFzZ19mUUdsU0RVaWFzWUpZX2hXcnp1bFkxTHJ4c1FRWVVrV2N0cEZ3QjJyTTY4TnBzb3RLbEE4Y2Z2c0lBd1FFaHNnNnNWNzVfbTNvdjRDLWxkTTV5TC1BWC1UMmVMRUxRMHFjd1NnSUZid1ExZnY4VXVQSzVNaWVMRWQ3YnEyTENGM252RHRuUEJ5eG1XcllsWV8wb0RZcktfY2ZET3pWQVJ0bFRQcA",
@@ -128,22 +224,6 @@
       "category": "Industry News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmY3YjNkQWswaDRyU2xZaHpFckJ1TnRMZkhEUVhZdzdqNC1hd1RRZ184SFdjWkJjdUZiU1NBbkgxRkVnS2FTNGo0a1FxelE5ZU95aVZ1bXNhUlNibUtxN0VtVjFCWFFoZVVhckdrTVZtczJnQWRCWEUyTzJwdHZFTGRzOUprYTRIdFZOYjdLY3dwTGprZHFLN3FqTUg1cmM?oc=5",
       "date": "Thu, 19 Feb 2026 08:00:00 GMT"
-    },
-    {
-      "id": "CBMizAFBVV95cUxQYUpDSzRzZzFGM1c2VkFnMy05Wk5FbHhBYVVnQ29iS2x5Z19KTnhpQjFmak1lcWdsaS1id3g1UHV6dDZ3cDdnaHdvSkVTamdMVmYwTElPVFVJRzI0MzNhZjFfRlIzX1BSMlpjUk5SWUhhVXhyV3dRSGtqZmtnNmdLWXVOMkJwbzRLbHBXX2NseDQ2QjV2NmtRbHdFclA2RGt3OUN5blR2TnNqdF9FZnJISmtDX0lqcXBWTi1qUV84bzhPc1ZaQjBvazRqNFQ",
-      "title": "NAMRU-D researchers attend 92nd AsMA scientific meeting - www.navy.mil",
-      "source": "AsMA Coverage",
-      "category": "Events",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUpDSzRzZzFGM1c2VkFnMy05Wk5FbHhBYVVnQ29iS2x5Z19KTnhpQjFmak1lcWdsaS1id3g1UHV6dDZ3cDdnaHdvSkVTamdMVmYwTElPVFVJRzI0MzNhZjFfRlIzX1BSMlpjUk5SWUhhVXhyV3dRSGtqZmtnNmdLWXVOMkJwbzRLbHBXX2NseDQ2QjV2NmtRbHdFclA2RGt3OUN5blR2TnNqdF9FZnJISmtDX0lqcXBWTi1qUV84bzhPc1ZaQjBvazRqNFQ?oc=5",
-      "date": "Mon, 06 Jun 2022 07:00:00 GMT"
-    },
-    {
-      "id": "CBMirwFBVV95cUxPSnpxNXpFWmVOUzl4R0ZjVUVFYnF6b2JZNFVaQW9sTjZORFpsMEZDckZjUUdZa0ZRaDI1VE9Gc2VBbC1IRURiVzlMY2ZQTFhoRk1yYVhhUlMxNnRRcFp1ejFSOUdpcXNyYXl3OEtkYV80bmo1dExpUHBkUkVZZ0c5eWdOU244R1IyVjhwUlY3a29yNDVoel9ZWkN0LXlyNVFFVnV5NEtfcmVNblYwdnkw",
-      "title": "What it\u2019s like in aerospace medicine: Shadowing Dr. Ortega - American Medical Association | AMA",
-      "source": "AsMA Coverage",
-      "category": "Industry News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSnpxNXpFWmVOUzl4R0ZjVUVFYnF6b2JZNFVaQW9sTjZORFpsMEZDckZjUUdZa0ZRaDI1VE9Gc2VBbC1IRURiVzlMY2ZQTFhoRk1yYVhhUlMxNnRRcFp1ejFSOUdpcXNyYXl3OEtkYV80bmo1dExpUHBkUkVZZ0c5eWdOU244R1IyVjhwUlY3a29yNDVoel9ZWkN0LXlyNVFFVnV5NEtfcmVNblYwdnkw?oc=5",
-      "date": "Wed, 14 Aug 2019 07:00:00 GMT"
     },
     {
       "id": "CBMiogFBVV95cUxPTElHeTBIREM0YThrTEZUV2pmS2lTNzNLSnNxa3ExazVLREdad0hKODBBMHhGWU9RYmJmOEtROHFIM0JZcUw0SFIxSGVYRDVEdk45d3Z3QVJsSlc4aXhCMHktS2swVGRwVEE0cGhaMkRRaWx6eTNuU2tudVVmV2t6dmdFUVoyZWJGd3lpZGY4ZUxwTFk0TFVKNmI1R0doM01CUWc",
@@ -250,20 +330,20 @@
       "date": "Wed, 07 Oct 2026 07:00:00 GMT"
     },
     {
-      "id": "CBMirAFBVV95cUxPRjVpbnNENEdiQWZfcmhRTGRsaTBTZDJHUUYzOXIzUUNQZnFLYm5WREpHMGIycENJcUhtQXkzU3lBVkpBMzMyc084QnNueGwxcVAydXkzWm5COHI2bzIwZ0diYnlHejNieU9uYS1mejNKU25SaTJvUjQxcmtPWG1EdXJCZzBJNkYyMkFUbXNKY3ZJMUxRZlprUWpkVzZBT1g5eGttMGROOU8wT2M5",
-      "title": "Ronak Shah launches new Texas university aerospace medicine department - The American Bazaar",
-      "source": "Residency News",
-      "category": "Residency",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRjVpbnNENEdiQWZfcmhRTGRsaTBTZDJHUUYzOXIzUUNQZnFLYm5WREpHMGIycENJcUhtQXkzU3lBVkpBMzMyc084QnNueGwxcVAydXkzWm5COHI2bzIwZ0diYnlHejNieU9uYS1mejNKU25SaTJvUjQxcmtPWG1EdXJCZzBJNkYyMkFUbXNKY3ZJMUxRZlprUWpkVzZBT1g5eGttMGROOU8wT2M5?oc=5",
-      "date": "Mon, 14 Sep 2026 07:00:00 GMT"
-    },
-    {
       "id": "CBMic0FVX3lxTFAzb3piM211azRPYXhyU0hXeUVoUm1ST1RxOEdTZXl6WFdoV1VMWWtiWVViZkxLV2tmWEFiZ2tLTDl2WVh3cE5abndiZ1QtaWtrOHN3enFsb3hFXzZOY0VGa2dPbk9DT1R3TEJFRDFEM3Fzclk",
       "title": "UCLA Space Medicine Fellowship program aims to prepare next generation of flight surgeons - UCLA Health",
       "source": "Residency News",
       "category": "Residency",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAzb3piM211azRPYXhyU0hXeUVoUm1ST1RxOEdTZXl6WFdoV1VMWWtiWVViZkxLV2tmWEFiZ2tLTDl2WVh3cE5abndiZ1QtaWtrOHN3enFsb3hFXzZOY0VGa2dPbk9DT1R3TEJFRDFEM3Fzclk?oc=5",
       "date": "Fri, 11 Feb 2022 08:00:00 GMT"
+    },
+    {
+      "id": "CBMirAFBVV95cUxPRjVpbnNENEdiQWZfcmhRTGRsaTBTZDJHUUYzOXIzUUNQZnFLYm5WREpHMGIycENJcUhtQXkzU3lBVkpBMzMyc084QnNueGwxcVAydXkzWm5COHI2bzIwZ0diYnlHejNieU9uYS1mejNKU25SaTJvUjQxcmtPWG1EdXJCZzBJNkYyMkFUbXNKY3ZJMUxRZlprUWpkVzZBT1g5eGttMGROOU8wT2M5",
+      "title": "Ronak Shah launches new Texas university aerospace medicine department - The American Bazaar",
+      "source": "Residency News",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRjVpbnNENEdiQWZfcmhRTGRsaTBTZDJHUUYzOXIzUUNQZnFLYm5WREpHMGIycENJcUhtQXkzU3lBVkpBMzMyc084QnNueGwxcVAydXkzWm5COHI2bzIwZ0diYnlHejNieU9uYS1mejNKU25SaTJvUjQxcmtPWG1EdXJCZzBJNkYyMkFUbXNKY3ZJMUxRZlprUWpkVzZBT1g5eGttMGROOU8wT2M5?oc=5",
+      "date": "Mon, 14 Sep 2026 07:00:00 GMT"
     },
     {
       "id": "CBMipgFBVV95cUxNMjNIZjNNcHRmckE5bnc0Sk5taFhDQWtjelhiM1A4SGd3OFFUaW1nZWE0X1pvQ2VkLU9FVzdiWjROTkcxN1AzN3JzazktZ0t2UFJ0YkJzWHhsSVM2eDJuNGdSdE0wbnp1YkpGVEthamU5UV9mNjNaSU5OblVkN1VDcmhobngza0d4cVVrLVd3VVRaLThhcWk0UmlzSmtqNGJqVGRCMmRR",
@@ -346,28 +426,12 @@
       "date": "Thu, 30 Jul 2026 02:26:23 GMT"
     },
     {
-      "id": "CBMizwFBVV95cUxOeXFaT1BtdGtUWGZCMlAwSmIxd1hkUXlldWRaaTgtUDlwZDAwTENqOExxT2Zka0hpVGt5YVp5TWhrY0dGeXNmNHI4RUl5TTB2WWFuY2VyWm1FY2ZxanIyMklWMjFpUlMzUmR4LVNyV0VnQTJyQ1RkaThHeFp1MjBoWnZ6X1o3VWI3MUhfQXRINktlUUxsX0FaTFp5ZWdNd2wtSnZtejB5cmw1b1VxQmI1blN0S0w2a29tU2NsbmRVb04tSktnbkFFQ05YZlJPNFE",
-      "title": "Expert Alert: Mayo Clinic aerospace medicine experts look ahead 50 years after Apollo 11 - Mayo Clinic News Network",
-      "source": "Mayo Clinic Aerospace",
-      "category": "Residency",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeXFaT1BtdGtUWGZCMlAwSmIxd1hkUXlldWRaaTgtUDlwZDAwTENqOExxT2Zka0hpVGt5YVp5TWhrY0dGeXNmNHI4RUl5TTB2WWFuY2VyWm1FY2ZxanIyMklWMjFpUlMzUmR4LVNyV0VnQTJyQ1RkaThHeFp1MjBoWnZ6X1o3VWI3MUhfQXRINktlUUxsX0FaTFp5ZWdNd2wtSnZtejB5cmw1b1VxQmI1blN0S0w2a29tU2NsbmRVb04tSktnbkFFQ05YZlJPNFE?oc=5",
-      "date": "Mon, 13 May 2019 07:00:00 GMT"
-    },
-    {
       "id": "CBMixgFBVV95cUxOT2pSVUlJLUVoTUh4cWhrdkJoU1NVUGJYNVlNaHUydzcySE1Qa3BmM2xpRXpFLTNNMElGTHJEdksweVdIWEpCcXYtZk0wN2ZPNHN4SWpNMTE5aGZ2QUdXZnUyclUwQWhzOVBFSDhxQU4zUlRNQUhSTEpPZjMwaGFTM1l0cGtuUUFzdUNRZG4zUjdidFRjRlBvZ1VCQU1jbkJ5U1BYamF3eGdodk9DSksydndSM1dGUXBwUEtnOUVWMUpfbV9NS3c",
       "title": "VCU alum, who practices at the Mayo Clinic, has developed specialties ranging from aerospace medicine to long COVID - VCU News",
       "source": "Mayo Clinic Aerospace",
       "category": "Residency",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOT2pSVUlJLUVoTUh4cWhrdkJoU1NVUGJYNVlNaHUydzcySE1Qa3BmM2xpRXpFLTNNMElGTHJEdksweVdIWEpCcXYtZk0wN2ZPNHN4SWpNMTE5aGZ2QUdXZnUyclUwQWhzOVBFSDhxQU4zUlRNQUhSTEpPZjMwaGFTM1l0cGtuUUFzdUNRZG4zUjdidFRjRlBvZ1VCQU1jbkJ5U1BYamF3eGdodk9DSksydndSM1dGUXBwUEtnOUVWMUpfbV9NS3c?oc=5",
       "date": "Fri, 07 Jul 2023 07:00:00 GMT"
-    },
-    {
-      "id": "CBMiiwFBVV95cUxQQnhrUUZnd1BBVzBuRW5vZ0o1VTljWXZlaG9DZks0RTFNNWJhOWM5YjZoWmV3M1hCSmNBLXlLenR6NHR6TzlRVmNjbEQ0NWJHQ3g3dUNzUi1ULTR3MF9GRmdTMDQwT3lDZ2NyT2ZfVllWYUZLdi1KOXg5VkdZTEs1SUJoSjBWVENlLUhn",
-      "title": "Steven Altchuler - Post Bulletin",
-      "source": "Mayo Clinic Aerospace",
-      "category": "Residency",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQnhrUUZnd1BBVzBuRW5vZ0o1VTljWXZlaG9DZks0RTFNNWJhOWM5YjZoWmV3M1hCSmNBLXlLenR6NHR6TzlRVmNjbEQ0NWJHQ3g3dUNzUi1ULTR3MF9GRmdTMDQwT3lDZ2NyT2ZfVllWYUZLdi1KOXg5VkdZTEs1SUJoSjBWVENlLUhn?oc=5",
-      "date": "Mon, 20 Jul 2026 07:00:00 GMT"
     },
     {
       "id": "CBMiqwFBVV95cUxOMEdXdnBYc0tINklhTmVIRl9Hbk53WDBFMDBVTVJ4NkNOTnVma2NBQWtvZTMydlpXeHk5UDQ0czNCTFhVWUVrU25scTI3NHJqU2VhZXVMVzN1Y01DNVlVMDgtQi1WcW0yMnJMWFctUjMydXdwbjVSNWgtdjdhLWNueXdtbzVzWkJDclJkZGxoLUZVSF9Zc3FXOThfU0hTU0dwT2hYN194QzR3cGs",
@@ -394,6 +458,14 @@
       "date": "Mon, 24 Apr 2017 07:00:00 GMT"
     },
     {
+      "id": "CBMirAFBVV95cUxPTDd6X2Z2cV9lb3FvdDNvcUd0a010X2JzMUlmMWVOOW5Ya1NRNGkxdEdQcFRIM2tkbmo3TERyRF9xaXdvS3l0UjFkNXVYTG1hc09ZWG9CR2hjenZWVUFPMzhjQzNFdWc2d1ozRGRFMkFDSnp2andWY0ZiZE5NSUN5bUUwTDhvNloyczlsenB1UjlIOFdSOUlFT09wVEZHTGROTm9WNk8yV1Q3SGFw0gGsAUFVX3lxTE9MN3pfZnZxX2VvcW90M29xR3RrTXRfYnMxSWYxZU45blhrU1E0aTF0R1BwVEgza2RuajdMRHJEX3Fpd29LeXRSMWQ1dVhMbWFzT1lYb0JHaGN6dlZVQU8zOGNDM0V1ZzZ3WjNEZEUyQUNKenZqd1ZjRmJkTk1JQ3ltRTBMOG82WjJzOWx6cHVSOUg4V1I5SUVPT3BURkdMZE5Ob1Y2TzJXVDdIYXA",
+      "title": "Mayo Clinic aerospace medicine experts look ahead 50 years after Apollo 11 | Newswise - Newswise",
+      "source": "Mayo Clinic Aerospace",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTDd6X2Z2cV9lb3FvdDNvcUd0a010X2JzMUlmMWVOOW5Ya1NRNGkxdEdQcFRIM2tkbmo3TERyRF9xaXdvS3l0UjFkNXVYTG1hc09ZWG9CR2hjenZWVUFPMzhjQzNFdWc2d1ozRGRFMkFDSnp2andWY0ZiZE5NSUN5bUUwTDhvNloyczlsenB1UjlIOFdSOUlFT09wVEZHTGROTm9WNk8yV1Q3SGFw0gGsAUFVX3lxTE9MN3pfZnZxX2VvcW90M29xR3RrTXRfYnMxSWYxZU45blhrU1E0aTF0R1BwVEgza2RuajdMRHJEX3Fpd29LeXRSMWQ1dVhMbWFzT1lYb0JHaGN6dlZVQU8zOGNDM0V1ZzZ3WjNEZEUyQUNKenZqd1ZjRmJkTk1JQ3ltRTBMOG82WjJzOWx6cHVSOUg4V1I5SUVPT3BURkdMZE5Ob1Y2TzJXVDdIYXA?oc=5",
+      "date": "Mon, 13 May 2019 07:00:00 GMT"
+    },
+    {
       "id": "CBMiuAFBVV95cUxNTG9HS0d4Wk1GTlpPWlkydVMtUUdBaDlVR3c4ejdZQ2tKQzJLZGZtOUJpSFlhYmhkNllZbTFsMmRRUjVyTUxveEVldlJUb2pHMEt0Y2N6c3ZmakRFZEJ2UmpzYTBRMHRmUlJNRzlPdlNaRWJhZ1hIVS1iZG11SGd2c3VyZHZ1eE5pVVdFQ3B1UFlidmtlX29KSzFiZnNyUEFzWnkybUt6MWJXZ3JpcXVUd3ZjYWpjT1ZQ",
       "title": "First officer in Miracle on the Hudson landing to speak at Mayo Clinic - Mayo Clinic News Network",
       "source": "Mayo Clinic Aerospace",
@@ -402,68 +474,76 @@
       "date": "Wed, 13 Sep 2017 07:00:00 GMT"
     },
     {
-      "id": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
-      "title": "APOD: 2026 November 4 \u2013 The Not-So-Hidden Galaxy, IC 342",
-      "source": "NASA Main News",
-      "category": "Industry News",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-4-the-not-so-hidden-galaxy-ic-342/",
-      "date": "Wed, 04 Nov 2026 05:05:00 +0000"
+      "id": "CBMitgFBVV95cUxQbUdsUFppbXhzRWtWWVI5MGxiQndDZUVzY2N4aXFXVkZ4Z3BpMm9BV0FsN2hNRV95V1g1bjl1SjhCWk1ZSFl6Q1AzQTRSQlMwS0N6V3pYSW0zbVY1dXlfRUNWSXRRSGhsN08wWkppWmN6UGF5X0Rsblh2X0dIem5NQWpJU1hUYU9kWjR4M3dGOHhhanJ4dW00TzNvQTVkWlZmVVl2M1JYR1dOZHJnaGE4WVd6QnNSZw",
+      "title": "Mayo Clinic Study Says Eye-Tracking Devices Offer Added Pilot Safety - Mayo Clinic News Network",
+      "source": "Mayo Clinic Aerospace",
+      "category": "Residency",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbUdsUFppbXhzRWtWWVI5MGxiQndDZUVzY2N4aXFXVkZ4Z3BpMm9BV0FsN2hNRV95V1g1bjl1SjhCWk1ZSFl6Q1AzQTRSQlMwS0N6V3pYSW0zbVY1dXlfRUNWSXRRSGhsN08wWkppWmN6UGF5X0Rsblh2X0dIem5NQWpJU1hUYU9kWjR4M3dGOHhhanJ4dW00TzNvQTVkWlZmVVl2M1JYR1dOZHJnaGE4WVd6QnNSZw?oc=5",
+      "date": "Thu, 31 Jul 2014 07:00:00 GMT"
     },
     {
-      "id": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
-      "title": "Before the Dawn in America\u2019s Heartland",
+      "id": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+      "title": "Hubble Learns Galactic History From Stars",
       "source": "NASA Main News",
       "category": "Industry News",
-      "url": "https://science.nasa.gov/earth/earth-observatory/before-the-dawn-in-americas-heartland/",
-      "date": "Wed, 04 Nov 2026 05:01:00 +0000"
+      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+      "date": "Thu, 05 Nov 2026 12:56:21 +0000"
     },
     {
-      "id": "https://www.nasa.gov/?post_type=image-article&p=1061295",
-      "title": "Astronaut and Earth",
+      "id": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+      "title": "APOD: 2026 November 5 \u2013 Enceladus in Silhouette",
       "source": "NASA Main News",
       "category": "Industry News",
-      "url": "https://www.nasa.gov/image-article/astronaut-and-earth/",
-      "date": "Tue, 03 Nov 2026 16:37:42 +0000"
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+      "date": "Thu, 05 Nov 2026 05:05:00 +0000"
     },
     {
-      "id": "https://www.nasa.gov/?p=1061425",
-      "title": "TB 26-10 Printed Circuit Board Assembly Chip Resistor Body Cracking",
+      "id": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
       "source": "NASA Main News",
       "category": "Industry News",
-      "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-10-printed-circuit-board-assembly-chip-resistor-body-cracking/",
-      "date": "Tue, 03 Nov 2026 15:35:14 +0000"
+      "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+      "date": "Thu, 05 Nov 2026 05:01:00 +0000"
     },
     {
-      "id": "https://www.nasa.gov/?p=1061424",
-      "title": "NASA Astronaut, STEM Creator Connect with Students for STEM Day",
+      "id": "https://www.nasa.gov/?post_type=press-release&p=1062503",
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
       "source": "NASA Main News",
       "category": "Industry News",
-      "url": "https://www.nasa.gov/learning-resources/nasa-astronaut-stem-creator-connect-with-students-for-stem-day/",
-      "date": "Tue, 03 Nov 2026 15:15:50 +0000"
+      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+      "date": "Thu, 05 Nov 2026 01:43:21 +0000"
     },
     {
-      "id": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
-      "title": "APOD: 2026 November 3 \u2013 Comet PanSTARRs and Rainbow Meteor",
+      "id": "https://www.nasa.gov/?p=1062413",
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
       "source": "NASA Main News",
       "category": "Industry News",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-3-comet-panstarrs-and-rainbow-meteor/",
-      "date": "Tue, 03 Nov 2026 05:05:00 +0000"
+      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "date": "Wed, 04 Nov 2026 21:04:10 +0000"
     },
     {
-      "id": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
-      "title": "The Pacific\u2019s Busy Storm Season",
+      "id": "https://www.nasa.gov/?post_type=press-release&p=1062160",
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
       "source": "NASA Main News",
       "category": "Industry News",
-      "url": "https://science.nasa.gov/earth/earth-observatory/the-pacifics-busy-storm-season/",
-      "date": "Tue, 03 Nov 2026 05:01:00 +0000"
+      "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+      "date": "Wed, 04 Nov 2026 18:00:02 +0000"
     },
     {
-      "id": "https://www.nasa.gov/?p=1060674",
-      "title": "Happy 65 Years: NASA\u2019s Johnson Space Center Then and Now",
+      "id": "https://www.nasa.gov/?p=1061412",
+      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
       "source": "NASA Main News",
       "category": "Industry News",
-      "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
-      "date": "Mon, 02 Nov 2026 21:35:59 +0000"
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+      "date": "Wed, 04 Nov 2026 16:52:43 +0000"
+    },
+    {
+      "id": "https://www.nasa.gov/?p=1061949",
+      "title": "NASA Space Grant Students Fuel Agency\u2019s Inspiration Tour",
+      "source": "NASA Main News",
+      "category": "Opportunities",
+      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+      "date": "Wed, 04 Nov 2026 16:16:41 +0000"
     },
     {
       "id": "https://www.nature.com/articles/s41526-026-00669-y",
