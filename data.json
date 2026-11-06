@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05 13:50 UTC",
+  "last_updated": "2026-11-06 13:35 UTC",
   "items": [
     {
       "id": "pubmed-42092775",
@@ -23,6 +23,14 @@
       "source": "PubMed",
       "category": "Research",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42910274/",
+      "date": "2026 Dec"
+    },
+    {
+      "id": "pubmed-42888869",
+      "title": "Urinary oxalate excretion in astronauts during long-duration spaceflight: an exploratory analysis.",
+      "source": "PubMed",
+      "category": "Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42888869/",
       "date": "2026 Dec"
     },
     {
@@ -72,14 +80,6 @@
       "category": "Research",
       "url": "https://pubmed.ncbi.nlm.nih.gov/42977023/",
       "date": "2026 Nov 3"
-    },
-    {
-      "id": "pubmed-42969959",
-      "title": "From theory to practice: a \"Clarify-Bridge-Practice\" seminar model for graduate medical trainees entering cardiovascular research.",
-      "source": "PubMed",
-      "category": "Research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42969959/",
-      "date": "2026 Nov 2"
     },
     {
       "id": "pubmed-42636700",
@@ -482,6 +482,38 @@
       "date": "Thu, 31 Jul 2014 07:00:00 GMT"
     },
     {
+      "id": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+      "title": "APOD: 2026 November 6 \u2013 A Farewell to Swift",
+      "source": "NASA Main News",
+      "category": "Industry News",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
+      "date": "Fri, 06 Nov 2026 05:05:00 +0000"
+    },
+    {
+      "id": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+      "title": "Taking a Gander at Utah\u2019s Goosenecks",
+      "source": "NASA Main News",
+      "category": "Industry News",
+      "url": "https://science.nasa.gov/earth/earth-observatory/taking-a-gander-at-utahs-goosenecks/",
+      "date": "Fri, 06 Nov 2026 05:01:00 +0000"
+    },
+    {
+      "id": "https://www.nasa.gov/?post_type=image-article&p=1061815",
+      "title": "Midwestern City Lights",
+      "source": "NASA Main News",
+      "category": "Industry News",
+      "url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+      "date": "Thu, 05 Nov 2026 15:17:19 +0000"
+    },
+    {
+      "id": "https://www.nasa.gov/?p=1062633",
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "source": "NASA Main News",
+      "category": "Industry News",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
+      "date": "Thu, 05 Nov 2026 15:11:25 +0000"
+    },
+    {
       "id": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
       "title": "Hubble Learns Galactic History From Stars",
       "source": "NASA Main News",
@@ -512,38 +544,6 @@
       "category": "Industry News",
       "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
       "date": "Thu, 05 Nov 2026 01:43:21 +0000"
-    },
-    {
-      "id": "https://www.nasa.gov/?p=1062413",
-      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
-      "source": "NASA Main News",
-      "category": "Industry News",
-      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
-      "date": "Wed, 04 Nov 2026 21:04:10 +0000"
-    },
-    {
-      "id": "https://www.nasa.gov/?post_type=press-release&p=1062160",
-      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
-      "source": "NASA Main News",
-      "category": "Industry News",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
-      "date": "Wed, 04 Nov 2026 18:00:02 +0000"
-    },
-    {
-      "id": "https://www.nasa.gov/?p=1061412",
-      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
-      "source": "NASA Main News",
-      "category": "Industry News",
-      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
-      "date": "Wed, 04 Nov 2026 16:52:43 +0000"
-    },
-    {
-      "id": "https://www.nasa.gov/?p=1061949",
-      "title": "NASA Space Grant Students Fuel Agency\u2019s Inspiration Tour",
-      "source": "NASA Main News",
-      "category": "Opportunities",
-      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
-      "date": "Wed, 04 Nov 2026 16:16:41 +0000"
     },
     {
       "id": "https://www.nature.com/articles/s41526-026-00669-y",
@@ -610,6 +610,30 @@
       "date": "2026-10-09"
     },
     {
+      "id": "https://spacenews.com/?p=625529",
+      "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+      "source": "SpaceNews",
+      "category": "Industry News",
+      "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+      "date": "Thu, 05 Nov 2026 21:45:00 +0000"
+    },
+    {
+      "id": "https://spacenews.com/?p=625491",
+      "title": "Cork Takes the Heat So DRACO\u2019s Data Can Survive",
+      "source": "SpaceNews",
+      "category": "Industry News",
+      "url": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
+      "date": "Thu, 05 Nov 2026 17:05:59 +0000"
+    },
+    {
+      "id": "https://spacenews.com/?p=625361",
+      "title": "Building a \u2018highway to the moon and back\u2019 with Winnie Lai",
+      "source": "SpaceNews",
+      "category": "Industry News",
+      "url": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/",
+      "date": "Thu, 05 Nov 2026 14:15:38 +0000"
+    },
+    {
       "id": "https://spacenews.com/?p=625062",
       "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
       "source": "SpaceNews",
@@ -648,30 +672,6 @@
       "category": "Industry News",
       "url": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/",
       "date": "Thu, 29 Oct 2026 15:01:09 +0000"
-    },
-    {
-      "id": "https://spacenews.com/?p=623709",
-      "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
-      "source": "SpaceNews",
-      "category": "Industry News",
-      "url": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
-      "date": "Wed, 28 Oct 2026 14:43:08 +0000"
-    },
-    {
-      "id": "https://spacenews.com/?p=623599",
-      "title": "Ukrainian startup, GomSpace test satellite for future communications network",
-      "source": "SpaceNews",
-      "category": "Industry News",
-      "url": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
-      "date": "Tue, 27 Oct 2026 20:21:30 +0000"
-    },
-    {
-      "id": "https://spacenews.com/?p=623328",
-      "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
-      "source": "SpaceNews",
-      "category": "Industry News",
-      "url": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/",
-      "date": "Tue, 27 Oct 2026 12:00:00 +0000"
     }
   ]
 }
