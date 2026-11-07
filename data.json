@@ -1,6 +1,14 @@
 {
-  "last_updated": "2026-11-06 13:35 UTC",
+  "last_updated": "2026-11-07 12:15 UTC",
   "items": [
+    {
+      "id": "pubmed-42880520",
+      "title": "Emergency vascular surgery in space, on the moon, and mars: fundamental principles, technical protocols, and hemostatic methods under different gravitational regimes (0 g, 0.16 g, 0.38 g).",
+      "source": "PubMed",
+      "category": "Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42880520/",
+      "date": "2027 Jan"
+    },
     {
       "id": "pubmed-42092775",
       "title": "A novel bile salt hydrolase-producing Ligilactobacillus salivarius prevents diet-induced obesity via regulation of bile acid metabolism and glucagon-like peptide 1 restoration.",
@@ -42,6 +50,14 @@
       "date": "2026 Dec"
     },
     {
+      "id": "pubmed-42829180",
+      "title": "P7C3: A novel multi-target therapeutic strategy to combat disuse-related bone loss in space and on earth.",
+      "source": "PubMed",
+      "category": "Research",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42829180/",
+      "date": "2026 Dec"
+    },
+    {
       "id": "pubmed-42727534",
       "title": "Force-limiting factors in triceps surae muscle of children and adolescents with spastic cerebral palsy.",
       "source": "PubMed",
@@ -66,132 +82,12 @@
       "date": "2026 Nov 10"
     },
     {
-      "id": "pubmed-42982387",
-      "title": "Microgravity and Cardiac Electrophysiology: Autonomic Remodeling, Arrhythmogenesis, and Implications for Long-Duration Spaceflight.",
-      "source": "PubMed",
-      "category": "Research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42982387/",
-      "date": "2026 Nov 4"
-    },
-    {
-      "id": "pubmed-42977023",
-      "title": "Polygenic susceptibility modifies the association between long-term physical activity patterns and major adverse cardiovascular events: Insights from a target trial emulation study.",
-      "source": "PubMed",
-      "category": "Research",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42977023/",
-      "date": "2026 Nov 3"
-    },
-    {
-      "id": "pubmed-42636700",
-      "title": "Development and test-retest reliability of a laboratory-based shipboard firefighting simulation for controlled performance testing.",
-      "source": "PubMed",
-      "category": "Residency",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42636700/",
-      "date": "2027 Feb"
-    },
-    {
-      "id": "pubmed-42874157",
-      "title": "CoilDrop-MRI: Self-supervised physics-guided MRI reconstruction with coil dropout.",
-      "source": "PubMed",
-      "category": "Residency",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42874157/",
-      "date": "2027 Jan"
-    },
-    {
-      "id": "pubmed-42843092",
-      "title": "CeLDA+: Prototypical learning for age-robust cephalometric landmark detection.",
-      "source": "PubMed",
-      "category": "Residency",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42843092/",
-      "date": "2027 Jan"
-    },
-    {
-      "id": "pubmed-42766966",
-      "title": "RadGS-Reg+: Teacher-student radiative Gaussian reconstruction and 3D/3D registration for lumbar CT/X-ray registration.",
-      "source": "PubMed",
-      "category": "Residency",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42766966/",
-      "date": "2027 Jan"
-    },
-    {
-      "id": "pubmed-42715697",
-      "title": "Unsupervised motion artifact purification guided by joint prior from pixel and k-space domains.",
-      "source": "PubMed",
-      "category": "Residency",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42715697/",
-      "date": "2027 Jan"
-    },
-    {
-      "id": "pubmed-42598142",
-      "title": "A hierarchical, pH-responsive nanocomposite hydrogel platform for synergistic microenvironment reprogramming and attenuation of inflammatory periodontal bone loss.",
-      "source": "PubMed",
-      "category": "Residency",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42598142/",
-      "date": "2027 Jan"
-    },
-    {
-      "id": "pubmed-42537458",
-      "title": "Architecture-driven engineered lattice tetrahedral micro-scaffolds for extraskeletal osteogenesis.",
-      "source": "PubMed",
-      "category": "Residency",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42537458/",
-      "date": "2027 Jan"
-    },
-    {
-      "id": "pubmed-42442245",
-      "title": "Learning general representation of 12-lead ECG with a joint-embedding predictive architecture.",
-      "source": "PubMed",
-      "category": "Residency",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42442245/",
-      "date": "2027 Jan"
-    },
-    {
-      "id": "pubmed-42466900",
-      "title": "Voices from the neonatal unit: Mothers' and healthcare workers' perspectives on respectful and collaborative care for small and sick newborns in rural districts in KwaZulu-Natal, South Africa.",
-      "source": "PubMed",
-      "category": "Residency",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42466900/",
-      "date": "2026 Dec 31"
-    },
-    {
-      "id": "pubmed-42417836",
-      "title": "Identity without milestones: a narrative inquiry into the rites of passage shaping professional identity formation in health professions educators.",
-      "source": "PubMed",
-      "category": "Residency",
-      "url": "https://pubmed.ncbi.nlm.nih.gov/42417836/",
-      "date": "2026 Dec 31"
-    },
-    {
-      "id": "CBMiWkFVX3lxTFBqaW02b2ROZVd5RTMzaXpvUWh5eURxTjRNUXY4eXBkWXg5SUxxdThjNGk3M2pnMTlNeWRMYWxSam9NSldfV1dtZDFOQll3bHNfMjRCbE1iQlhhZw",
-      "title": "#GDTBATH: Tom Diaz - The University of North Carolina at Chapel Hill",
-      "source": "AsMA Coverage",
-      "category": "Industry News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqaW02b2ROZVd5RTMzaXpvUWh5eURxTjRNUXY4eXBkWXg5SUxxdThjNGk3M2pnMTlNeWRMYWxSam9NSldfV1dtZDFOQll3bHNfMjRCbE1iQlhhZw?oc=5",
-      "date": "Sun, 11 Oct 2026 07:00:00 GMT"
-    },
-    {
       "id": "CBMimAFBVV95cUxPampQSWZuVVZGUjJHU0YtdkluUkpQcHoybnV6SkYzcEZBME5USGZBZHlTTy0xM2F5RGE2UFlGcnp4OVRRRnZ3YmJTUW5wemxJWlNIMngwZHUtV3dnelF6MjJyQnNZd3I3enNSeWFQVTRRTFRFd3Y5OFh0SHNmbUxGRHE3ZWFObjhzSU81d0JEMTJUQkhUV3dwdw",
       "title": "FAA Executive Physician/Scientist Joins UCF Aerospace Medicine Team - University of Central Florida",
       "source": "AsMA Coverage",
       "category": "Industry News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPampQSWZuVVZGUjJHU0YtdkluUkpQcHoybnV6SkYzcEZBME5USGZBZHlTTy0xM2F5RGE2UFlGcnp4OVRRRnZ3YmJTUW5wemxJWlNIMngwZHUtV3dnelF6MjJyQnNZd3I3enNSeWFQVTRRTFRFd3Y5OFh0SHNmbUxGRHE3ZWFObjhzSU81d0JEMTJUQkhUV3dwdw?oc=5",
       "date": "Fri, 21 Aug 2026 07:00:00 GMT"
-    },
-    {
-      "id": "CBMiekFVX3lxTE5CSGxXeUxuTE5TQlBranpwMy1jYXhsUVZSMGF6SFdHVlFNYUtSSV9pRTVPSWdfU3VNclJUdmw4Rk5ua0dndGtncXJBQXhHUlBPRHdDdDA0cUxWa01MTEFvUncyS2VYZVZKNmp2Y3BadTJtbDBmWTFrRW1n",
-      "title": "Pharmacy student sets own course at NASA - The University of North Carolina at Chapel Hill",
-      "source": "AsMA Coverage",
-      "category": "Industry News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CSGxXeUxuTE5TQlBranpwMy1jYXhsUVZSMGF6SFdHVlFNYUtSSV9pRTVPSWdfU3VNclJUdmw4Rk5ua0dndGtncXJBQXhHUlBPRHdDdDA0cUxWa01MTEFvUncyS2VYZVZKNmp2Y3BadTJtbDBmWTFrRW1n?oc=5",
-      "date": "Sun, 11 Oct 2026 07:00:00 GMT"
-    },
-    {
-      "id": "CBMinwFBVV95cUxNT3RSZWlxT0JmVWU0WGZrN0xDSVp6WXR5ZWNXQnRvLXRCU0FQQktReFd5YVJIWlA4SWxZS3k0aXdJajFVU2FUUk4zVXR6aVNHXzRDT29YNS1vckViTzdDVTVVOXRjOXFRQjF6SnBUNnYyLVVnd1MxcmsxRlc0NXMzNWFhUlBsVmdtRkFrNXZNaFQxQzAyNEgweE0yLVhZbTQ",
-      "title": "Receives Prestigious International Presidential Position - Norwegian Armed Forces - Forsvaret",
-      "source": "AsMA Coverage",
-      "category": "Industry News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3RSZWlxT0JmVWU0WGZrN0xDSVp6WXR5ZWNXQnRvLXRCU0FQQktReFd5YVJIWlA4SWxZS3k0aXdJajFVU2FUUk4zVXR6aVNHXzRDT29YNS1vckViTzdDVTVVOXRjOXFRQjF6SnBUNnYyLVVnd1MxcmsxRlc0NXMzNWFhUlBsVmdtRkFrNXZNaFQxQzAyNEgweE0yLVhZbTQ?oc=5",
-      "date": "Fri, 22 May 2026 07:00:00 GMT"
     },
     {
       "id": "CBMixgFBVV95cUxPOFdlZEVPa0daVWI4Z3JJQk5qbmNTSmlGa3F6dHZLTlg3dGV4eWZYTEZvYzRMNVRnVVRCV19GRWYxbWpybWhXQzIxZkdQVVBKWm50a1pQZTBwS1pXTmdNcF9aUGE3LXpHWFhFODFMUVFIX1R6OGxDNmhPQXlNQmFiOW00bWkyYm15aHlFVWtpbkdiSXFWRU53QmNLV3FncXkyTnVHWHNUMVpUT1RyVEQ2bkQ0Y01QYmVvNEJyRWRCd2tjWkdpZEE",
@@ -202,20 +98,12 @@
       "date": "Tue, 24 Mar 2026 17:16:52 GMT"
     },
     {
-      "id": "CBMi1AFBVV95cUxQTGZRRmVWajI3ZGZJS0xtbUdqU1lBQ25sb1ViZjhnSlM0dVpBNlFzZ19mUUdsU0RVaWFzWUpZX2hXcnp1bFkxTHJ4c1FRWVVrV2N0cEZ3QjJyTTY4TnBzb3RLbEE4Y2Z2c0lBd1FFaHNnNnNWNzVfbTNvdjRDLWxkTTV5TC1BWC1UMmVMRUxRMHFjd1NnSUZid1ExZnY4VXVQSzVNaWVMRWQ3YnEyTENGM252RHRuUEJ5eG1XcllsWV8wb0RZcktfY2ZET3pWQVJ0bFRQcA",
-      "title": "59th Medical Wing\u2019s own honored with Aerospace Medical Association fellowship - Air Education and Training Command (.mil)",
+      "id": "CBMiWkFVX3lxTFBqaW02b2ROZVd5RTMzaXpvUWh5eURxTjRNUXY4eXBkWXg5SUxxdThjNGk3M2pnMTlNeWRMYWxSam9NSldfV1dtZDFOQll3bHNfMjRCbE1iQlhhZw",
+      "title": "#GDTBATH: Tom Diaz - The University of North Carolina at Chapel Hill",
       "source": "AsMA Coverage",
-      "category": "Residency",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQTGZRRmVWajI3ZGZJS0xtbUdqU1lBQ25sb1ViZjhnSlM0dVpBNlFzZ19mUUdsU0RVaWFzWUpZX2hXcnp1bFkxTHJ4c1FRWVVrV2N0cEZ3QjJyTTY4TnBzb3RLbEE4Y2Z2c0lBd1FFaHNnNnNWNzVfbTNvdjRDLWxkTTV5TC1BWC1UMmVMRUxRMHFjd1NnSUZid1ExZnY4VXVQSzVNaWVMRWQ3YnEyTENGM252RHRuUEJ5eG1XcllsWV8wb0RZcktfY2ZET3pWQVJ0bFRQcA?oc=5",
-      "date": "Wed, 25 Oct 2023 07:00:00 GMT"
-    },
-    {
-      "id": "CBMirwFBVV95cUxQdVR6RGZESF80SUN3bHVTM1lma2NUVjlrTXQ1VjBMY1Zlc3RYRS1kd05RN3phUlpuYmhqVERHTEQ1dTZUcFZubFBlN0JteG9ta19MaTVMZEFFcHB0X2RJVW8ySXFBSXF0RmgtcWdaRFBPNmhCNFRPUzFQdndhYjk3RnhpRS1oVEp6dHZMc0xzUnRCYzV6emh1V3lUVEpvMzRfWkd3NVFmZHU0bWRHMmEw",
-      "title": "IAM to host 64th annual conference Indian Society of Aerospace Medicine in Bengaluru - News On AIR",
-      "source": "AsMA Coverage",
-      "category": "Events",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdVR6RGZESF80SUN3bHVTM1lma2NUVjlrTXQ1VjBMY1Zlc3RYRS1kd05RN3phUlpuYmhqVERHTEQ1dTZUcFZubFBlN0JteG9ta19MaTVMZEFFcHB0X2RJVW8ySXFBSXF0RmgtcWdaRFBPNmhCNFRPUzFQdndhYjk3RnhpRS1oVEp6dHZMc0xzUnRCYzV6emh1V3lUVEpvMzRfWkd3NVFmZHU0bWRHMmEw?oc=5",
-      "date": "Wed, 27 May 2026 08:43:54 GMT"
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqaW02b2ROZVd5RTMzaXpvUWh5eURxTjRNUXY4eXBkWXg5SUxxdThjNGk3M2pnMTlNeWRMYWxSam9NSldfV1dtZDFOQll3bHNfMjRCbE1iQlhhZw?oc=5",
+      "date": "Sun, 11 Oct 2026 07:00:00 GMT"
     },
     {
       "id": "CBMinwFBVV95cUxQVmY3YjNkQWswaDRyU2xZaHpFckJ1TnRMZkhEUVhZdzdqNC1hd1RRZ184SFdjWkJjdUZiU1NBbkgxRkVnS2FTNGo0a1FxelE5ZU95aVZ1bXNhUlNibUtxN0VtVjFCWFFoZVVhckdrTVZtczJnQWRCWEUyTzJwdHZFTGRzOUprYTRIdFZOYjdLY3dwTGprZHFLN3FqTUg1cmM",
@@ -224,6 +112,38 @@
       "category": "Industry News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVmY3YjNkQWswaDRyU2xZaHpFckJ1TnRMZkhEUVhZdzdqNC1hd1RRZ184SFdjWkJjdUZiU1NBbkgxRkVnS2FTNGo0a1FxelE5ZU95aVZ1bXNhUlNibUtxN0VtVjFCWFFoZVVhckdrTVZtczJnQWRCWEUyTzJwdHZFTGRzOUprYTRIdFZOYjdLY3dwTGprZHFLN3FqTUg1cmM?oc=5",
       "date": "Thu, 19 Feb 2026 08:00:00 GMT"
+    },
+    {
+      "id": "CBMiowFBVV95cUxQWjlUVTBtblo2N3FKTmM1NUx6cjgwSG5URFNuWEI3WUg5NTJKWFV0SEhjbDlYenJrRUI3ZURYa2I3UDFhWHdMd25tWjQ0dExLeGNkdW5fdVZWMG9iaUh1ZHlud05rTGZ0b3F1VEVnaWkxN3JfOV83UjN5SjlUbkhqVEdCUHpQdzVTb0plNFd3ckcwV21qQTI2VjRoaGJLek4xZWJB",
+      "title": "LIEUTENANT GENERAL (DR.) CHARLES B. GREEN - AF.mil",
+      "source": "AsMA Coverage",
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWjlUVTBtblo2N3FKTmM1NUx6cjgwSG5URFNuWEI3WUg5NTJKWFV0SEhjbDlYenJrRUI3ZURYa2I3UDFhWHdMd25tWjQ0dExLeGNkdW5fdVZWMG9iaUh1ZHlud05rTGZ0b3F1VEVnaWkxN3JfOV83UjN5SjlUbkhqVEdCUHpQdzVTb0plNFd3ckcwV21qQTI2VjRoaGJLek4xZWJB?oc=5",
+      "date": "Sun, 21 Dec 2025 05:47:57 GMT"
+    },
+    {
+      "id": "CBMinwFBVV95cUxNT3RSZWlxT0JmVWU0WGZrN0xDSVp6WXR5ZWNXQnRvLXRCU0FQQktReFd5YVJIWlA4SWxZS3k0aXdJajFVU2FUUk4zVXR6aVNHXzRDT29YNS1vckViTzdDVTVVOXRjOXFRQjF6SnBUNnYyLVVnd1MxcmsxRlc0NXMzNWFhUlBsVmdtRkFrNXZNaFQxQzAyNEgweE0yLVhZbTQ",
+      "title": "Receives Prestigious International Presidential Position - Norwegian Armed Forces - Forsvaret",
+      "source": "AsMA Coverage",
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3RSZWlxT0JmVWU0WGZrN0xDSVp6WXR5ZWNXQnRvLXRCU0FQQktReFd5YVJIWlA4SWxZS3k0aXdJajFVU2FUUk4zVXR6aVNHXzRDT29YNS1vckViTzdDVTVVOXRjOXFRQjF6SnBUNnYyLVVnd1MxcmsxRlc0NXMzNWFhUlBsVmdtRkFrNXZNaFQxQzAyNEgweE0yLVhZbTQ?oc=5",
+      "date": "Fri, 22 May 2026 07:00:00 GMT"
+    },
+    {
+      "id": "CBMiekFVX3lxTE5CSGxXeUxuTE5TQlBranpwMy1jYXhsUVZSMGF6SFdHVlFNYUtSSV9pRTVPSWdfU3VNclJUdmw4Rk5ua0dndGtncXJBQXhHUlBPRHdDdDA0cUxWa01MTEFvUncyS2VYZVZKNmp2Y3BadTJtbDBmWTFrRW1n",
+      "title": "Pharmacy student sets own course at NASA - The University of North Carolina at Chapel Hill",
+      "source": "AsMA Coverage",
+      "category": "Industry News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CSGxXeUxuTE5TQlBranpwMy1jYXhsUVZSMGF6SFdHVlFNYUtSSV9pRTVPSWdfU3VNclJUdmw4Rk5ua0dndGtncXJBQXhHUlBPRHdDdDA0cUxWa01MTEFvUncyS2VYZVZKNmp2Y3BadTJtbDBmWTFrRW1n?oc=5",
+      "date": "Sun, 11 Oct 2026 07:00:00 GMT"
+    },
+    {
+      "id": "CBMizAFBVV95cUxQYUpDSzRzZzFGM1c2VkFnMy05Wk5FbHhBYVVnQ29iS2x5Z19KTnhpQjFmak1lcWdsaS1id3g1UHV6dDZ3cDdnaHdvSkVTamdMVmYwTElPVFVJRzI0MzNhZjFfRlIzX1BSMlpjUk5SWUhhVXhyV3dRSGtqZmtnNmdLWXVOMkJwbzRLbHBXX2NseDQ2QjV2NmtRbHdFclA2RGt3OUN5blR2TnNqdF9FZnJISmtDX0lqcXBWTi1qUV84bzhPc1ZaQjBvazRqNFQ",
+      "title": "NAMRU-D researchers attend 92nd AsMA scientific meeting - www.navy.mil",
+      "source": "AsMA Coverage",
+      "category": "Events",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUpDSzRzZzFGM1c2VkFnMy05Wk5FbHhBYVVnQ29iS2x5Z19KTnhpQjFmak1lcWdsaS1id3g1UHV6dDZ3cDdnaHdvSkVTamdMVmYwTElPVFVJRzI0MzNhZjFfRlIzX1BSMlpjUk5SWUhhVXhyV3dRSGtqZmtnNmdLWXVOMkJwbzRLbHBXX2NseDQ2QjV2NmtRbHdFclA2RGt3OUN5blR2TnNqdF9FZnJISmtDX0lqcXBWTi1qUV84bzhPc1ZaQjBvazRqNFQ?oc=5",
+      "date": "Mon, 06 Jun 2022 07:00:00 GMT"
     },
     {
       "id": "CBMiogFBVV95cUxPTElHeTBIREM0YThrTEZUV2pmS2lTNzNLSnNxa3ExazVLREdad0hKODBBMHhGWU9RYmJmOEtROHFIM0JZcUw0SFIxSGVYRDVEdk45d3Z3QVJsSlc4aXhCMHktS2swVGRwVEE0cGhaMkRRaWx6eTNuU2tudVVmV2t6dmdFUVoyZWJGd3lpZGY4ZUxwTFk0TFVKNmI1R0doM01CUWc",
@@ -282,12 +202,12 @@
       "date": "Sun, 05 Nov 2017 07:00:00 GMT"
     },
     {
-      "id": "CBMiekFVX3lxTFBOVHA4WWlnd1ZqVlhkc0hXc3BxT2NBaXIzclF2M0lxc3h3a0VlWWNjVFJleFZoZnY1SU4xQWZEYU9ua3k4S28tcGtRNUhsc3VhaFNGdEx1ak5Jdk51X1hYWkR5WXVqanE1S1JPRnU2UzNLM3lXZmxxS0h3",
-      "title": "NS-23 to Fly 36 Payloads and Tens of Thousands of Club for the Future Postcards to Space - Blue Origin",
+      "id": "CBMi9wFBVV95cUxPODc1T085S3Ffa2pQaVpTU1pzYWxveUZDTllfVUl1R3dVb3Rma3M1d2JsWVdfMVFNNzhDLXd0U0JLQl8xc2phaTN5bTh2eHZFbWtid2xHeXRfZW9jZUtkUEg0MzBVSHdMUXhNa0NkMlVnZ1Y0RW5RZTZkajZLenU0N1dWZnA4Vm1UYVMyWlVXeHVZajBILURpbXR3Yi1xZjhmbnNrTmhVVjJCaE9tZGR1WHk2NTM1Q2RaZlNHTEZBeTlBUEc3TzJYX2wwellEX01MVFc2bWRVeDFVYkJNMml5QlhMbDRWZFJqd0loSnliamdHckYwUl8w",
+      "title": "Scientists Convene at ASGSR and Identify Critical Research Required to Support Moon and Mars Missions - NASA Science (.gov)",
       "source": "ASGSR Updates",
       "category": "Industry News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOVHA4WWlnd1ZqVlhkc0hXc3BxT2NBaXIzclF2M0lxc3h3a0VlWWNjVFJleFZoZnY1SU4xQWZEYU9ua3k4S28tcGtRNUhsc3VhaFNGdEx1ak5Jdk51X1hYWkR5WXVqanE1S1JPRnU2UzNLM3lXZmxxS0h3?oc=5",
-      "date": "Wed, 24 Aug 2022 07:00:00 GMT"
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPODc1T085S3Ffa2pQaVpTU1pzYWxveUZDTllfVUl1R3dVb3Rma3M1d2JsWVdfMVFNNzhDLXd0U0JLQl8xc2phaTN5bTh2eHZFbWtid2xHeXRfZW9jZUtkUEg0MzBVSHdMUXhNa0NkMlVnZ1Y0RW5RZTZkajZLenU0N1dWZnA4Vm1UYVMyWlVXeHVZajBILURpbXR3Yi1xZjhmbnNrTmhVVjJCaE9tZGR1WHk2NTM1Q2RaZlNHTEZBeTlBUEc3TzJYX2wwellEX01MVFc2bWRVeDFVYkJNMml5QlhMbDRWZFJqd0loSnliamdHckYwUl8w?oc=5",
+      "date": "Thu, 12 Mar 2020 07:00:00 GMT"
     },
     {
       "id": "CBMidkFVX3lxTE5JbkQyRHNPOUtwVkFDN0N5cHVhemxCM09vQ3EwMzEzdU1xbVd0NFhFRW9XVk1GZjE2eUZySVM2RnhfMWlmMjhoTDRIUUFyMWpFdUZLaUFZS3B2cFItOFpHNFBaRnh6VHRmQXlTMW11MjdTbTNpRHc",
@@ -482,6 +402,30 @@
       "date": "Thu, 31 Jul 2014 07:00:00 GMT"
     },
     {
+      "id": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+      "title": "APOD: 2026 November 7 \u2013 De Gerlache-Kocher Massif",
+      "source": "NASA Main News",
+      "category": "Industry News",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-7-de-gerlache-kocher-massif/",
+      "date": "Sat, 07 Nov 2026 05:05:00 +0000"
+    },
+    {
+      "id": "https://www.nasa.gov/?post_type=image-article&p=1062898",
+      "title": "M30\u2019s Sparkling Stars",
+      "source": "NASA Main News",
+      "category": "Industry News",
+      "url": "https://www.nasa.gov/image-article/m30s-sparkling-stars/",
+      "date": "Fri, 06 Nov 2026 16:23:41 +0000"
+    },
+    {
+      "id": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+      "title": "Supercomputing Tech Demo Schedule",
+      "source": "NASA Main News",
+      "category": "Industry News",
+      "url": "https://science.nasa.gov/earth/supercomputing-tech-demo-schedule/",
+      "date": "Fri, 06 Nov 2026 16:03:52 +0000"
+    },
+    {
       "id": "https://science.nasa.gov/image-article/apod-2026-november-6-a-farewell-to-swift/",
       "title": "APOD: 2026 November 6 \u2013 A Farewell to Swift",
       "source": "NASA Main News",
@@ -520,30 +464,6 @@
       "category": "Industry News",
       "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
       "date": "Thu, 05 Nov 2026 12:56:21 +0000"
-    },
-    {
-      "id": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
-      "title": "APOD: 2026 November 5 \u2013 Enceladus in Silhouette",
-      "source": "NASA Main News",
-      "category": "Industry News",
-      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
-      "date": "Thu, 05 Nov 2026 05:05:00 +0000"
-    },
-    {
-      "id": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
-      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
-      "source": "NASA Main News",
-      "category": "Industry News",
-      "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
-      "date": "Thu, 05 Nov 2026 05:01:00 +0000"
-    },
-    {
-      "id": "https://www.nasa.gov/?post_type=press-release&p=1062503",
-      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
-      "source": "NASA Main News",
-      "category": "Industry News",
-      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
-      "date": "Thu, 05 Nov 2026 01:43:21 +0000"
     },
     {
       "id": "https://www.nature.com/articles/s41526-026-00669-y",
